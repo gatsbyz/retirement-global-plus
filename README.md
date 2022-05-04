@@ -1,10 +1,10 @@
-#Retirement Global +
+# Retirement Global +
 
-#Google Docs
+# Google Docs
 https://docs.google.com/document/d/1laAHUYkqxnocPBQqIeRB0HaU6wA8JShfNR4nlD4YaIU/edit?usp=sharing
 https://docs.google.com/document/d/1g50-IH0gQW8BT-l-CZcedZe2tRH1bg2ENcP3v_ge1W0/edit?usp=sharing
 
-#useful git commands
+# useful git commands
 `git checkout -b [BRANCH_NAME]`: new branch
 
 `git checkout [BRANCH_NAME]`: change branch
