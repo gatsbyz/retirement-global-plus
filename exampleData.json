@@ -1,0 +1,3093 @@
+[
+    {
+       "cost_of_living_details":[
+          {
+             "currency":"USD",
+             "details":[
+                {
+                   "Item":"Estimated Monthly Costs Without Rent",
+                   "Range":"N/A",
+                   "Value":"1855.53"
+                },
+                {
+                   "Item":"Meal, Inexpensive Restaurant",
+                   "Range":"19.87-49.66",
+                   "Value":"37.25"
+                },
+                {
+                   "Item":"Meal for 2 People, Mid-range Restaurant, Three-course",
+                   "Range":"124.17-149.0",
+                   "Value":"149.0"
+                },
+                {
+                   "Item":"McMeal at McDonalds (or Equivalent Combo Meal)",
+                   "Range":"11.92-14.9",
+                   "Value":"12.92"
+                },
+                {
+                   "Item":"Domestic Beer (1 pint draught)",
+                   "Range":"6.95-9.94",
+                   "Value":"8.94"
+                },
+                {
+                   "Item":"Imported Beer (12 oz small bottle)",
+                   "Range":"8.94-10.93",
+                   "Value":"9.94"
+                },
+                {
+                   "Item":"Cappuccino (regular)",
+                   "Range":"2.98-8.7",
+                   "Value":"5.48"
+                },
+                {
+                   "Item":"Coke/Pepsi (12 oz small bottle)",
+                   "Range":"1.99-3.47",
+                   "Value":"2.66"
+                },
+                {
+                   "Item":"Water (12 oz small bottle)",
+                   "Range":"1.99-2.98",
+                   "Value":"2.34"
+                },
+                {
+                   "Item":"Milk (regular), (1 gallon)",
+                   "Range":"10.73-24.84",
+                   "Value":"16.63"
+                },
+                {
+                   "Item":"Loaf of Fresh White Bread (1 lb)",
+                   "Range":"4.96-7.39",
+                   "Value":"6.2"
+                },
+                {
+                   "Item":"Rice (white), (1 lb)",
+                   "Range":"2.25-4.51",
+                   "Value":"3.42"
+                },
+                {
+                   "Item":"Eggs (regular) (12)",
+                   "Range":"2.87-7.16",
+                   "Value":"5.38"
+                },
+                {
+                   "Item":"Local Cheese (1 lb)",
+                   "Range":"3.92-11.92",
+                   "Value":"7.37"
+                },
+                {
+                   "Item":"Chicken Fillets (1 lb)",
+                   "Range":"5.4-9.94",
+                   "Value":"7.89"
+                },
+                {
+                   "Item":"Beef Round (1 lb) (or Equivalent Back Leg Red Meat)",
+                   "Range":"4.97-13.52",
+                   "Value":"9.85"
+                },
+                {
+                   "Item":"Apples (1 lb)",
+                   "Range":"2.7-8.12",
+                   "Value":"5.72"
+                },
+                {
+                   "Item":"Banana (1 lb)",
+                   "Range":"1.98-5.4",
+                   "Value":"2.88"
+                },
+                {
+                   "Item":"Oranges (1 lb)",
+                   "Range":"0.98-8.12",
+                   "Value":"4.19"
+                },
+                {
+                   "Item":"Tomato (1 lb)",
+                   "Range":"0.96-8.12",
+                   "Value":"4.49"
+                },
+                {
+                   "Item":"Potato (1 lb)",
+                   "Range":"1.8-5.65",
+                   "Value":"3.36"
+                },
+                {
+                   "Item":"Onion (1 lb)",
+                   "Range":"1.35-3.97",
+                   "Value":"2.82"
+                },
+                {
+                   "Item":"Lettuce (1 head)",
+                   "Range":"3.66-7.95",
+                   "Value":"5.96"
+                },
+                {
+                   "Item":"Water (1.5 liter bottle)",
+                   "Range":"2.48-3.97",
+                   "Value":"3.46"
+                },
+                {
+                   "Item":"Bottle of Wine (Mid-Range)",
+                   "Range":"17.88-24.84",
+                   "Value":"22.85"
+                },
+                {
+                   "Item":"Domestic Beer (0.5 liter bottle)",
+                   "Range":"2.84-7.95",
+                   "Value":"5.06"
+                },
+                {
+                   "Item":"Imported Beer (12 oz small bottle)",
+                   "Range":"3.21-8.94",
+                   "Value":"6.52"
+                },
+                {
+                   "Item":"Cigarettes 20 Pack (Marlboro)",
+                   "Range":"13.41-19.87",
+                   "Value":"16.51"
+                },
+                {
+                   "Item":"One-way Ticket (Local Transport)",
+                   "Range":"3.47-4.97",
+                   "Value":"4.47"
+                },
+                {
+                   "Item":"Monthly Pass (Regular Price)",
+                   "Range":"59.6-68.54",
+                   "Value":"68.54"
+                },
+                {
+                   "Item":"Taxi Start (Normal Tariff)",
+                   "Range":"3.97-7.85",
+                   "Value":"6.07"
+                },
+                {
+                   "Item":"Taxi 1 mile (Normal Tariff)",
+                   "Range":"2.73-6.8",
+                   "Value":"4.8"
+                },
+                {
+                   "Item":"Taxi 1hour Waiting (Normal Tariff)",
+                   "Range":"49.66-79.47",
+                   "Value":"64.57"
+                },
+                {
+                   "Item":"Gasoline (1 gallon)",
+                   "Range":"7.89-8.27",
+                   "Value":"8.2"
+                },
+                {
+                   "Item":"Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car)",
+                   "Range":"N/A",
+                   "Value":"39733.31"
+                },
+                {
+                   "Item":"Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car)",
+                   "Range":"N/A",
+                   "Value":"36753.32"
+                },
+                {
+                   "Item":"Basic (Electricity, Heating, Cooling, Water, Garbage) for 915 sq ft Apartment",
+                   "Range":"139.07-347.67",
+                   "Value":"224.41"
+                },
+                {
+                   "Item":"1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans)",
+                   "Range":"0.25-0.68",
+                   "Value":"0.41"
+                },
+                {
+                   "Item":"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",
+                   "Range":"94.37-168.86",
+                   "Value":"121.96"
+                },
+                {
+                   "Item":"Fitness Club, Monthly Fee for 1 Adult",
+                   "Range":"114.23-198.67",
+                   "Value":"165.15"
+                },
+                {
+                   "Item":"Tennis Court Rent (1 Hour on Weekend)",
+                   "Range":"11.92-34.76",
+                   "Value":"23.34"
+                },
+                {
+                   "Item":"Cinema, International Release, 1 Seat",
+                   "Range":"11.92-17.88",
+                   "Value":"11.92"
+                },
+                {
+                   "Item":"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",
+                   "Range":"N/A",
+                   "Value":"1181.5"
+                },
+                {
+                   "Item":"International Primary School, Yearly for 1 Child",
+                   "Range":"N/A",
+                   "Value":"23556.17"
+                },
+                {
+                   "Item":"1 Pair of Jeans (Levis 501 Or Similar)",
+                   "Range":"78.97-119.2",
+                   "Value":"93.46"
+                },
+                {
+                   "Item":"1 Summer Dress in a Chain Store (Zara, H&M, ...)",
+                   "Range":"29.81-99.33",
+                   "Value":"55.87"
+                },
+                {
+                   "Item":"1 Pair of Nike Running Shoes (Mid-Range)",
+                   "Range":"89.4-173.83",
+                   "Value":"136.94"
+                },
+                {
+                   "Item":"1 Pair of Men Leather Business Shoes",
+                   "Range":"74.5-178.8",
+                   "Value":"144.74"
+                },
+                {
+                   "Item":"Apartment (1 bedroom) in City Centre",
+                   "Range":"N/A",
+                   "Value":"2669.59"
+                },
+                {
+                   "Item":"Apartment (1 bedroom) Outside of Centre",
+                   "Range":"N/A",
+                   "Value":"1810.07"
+                },
+                {
+                   "Item":"Apartment (3 bedrooms) in City Centre",
+                   "Range":"N/A",
+                   "Value":"5775.52"
+                },
+                {
+                   "Item":"Apartment (3 bedrooms) Outside of Centre",
+                   "Range":"N/A",
+                   "Value":"3836.75"
+                },
+                {
+                   "Item":"Apartment (Shared Room in a 3 Bedrooms Apartment) in City Centre",
+                   "Range":"1655.55-2152.23",
+                   "Value":"1925.17"
+                },
+                {
+                   "Item":"Apartment (Shared Room in a 3 Bedrooms Apartment) Outside of Centre",
+                   "Range":"1059.56-1490.0",
+                   "Value":"1278.91"
+                },
+                {
+                   "Item":"Price per Square Feet to Buy Apartment in City Centre",
+                   "Range":"922.83-993.33",
+                   "Value":"958.08"
+                },
+                {
+                   "Item":"Price per Square Feet to Buy Apartment Outside of Centre",
+                   "Range":"496.66-553.7",
+                   "Value":"525.17"
+                },
+                {
+                   "Item":"Average Monthly Net Salary (After Tax)",
+                   "Range":"N/A",
+                   "Value":"6389.41"
+                },
+                {
+                   "Item":"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",
+                   "Range":"6.14-8.37",
+                   "Value":"7.68"
+                }
+             ]
+          }
+       ],
+       "cost_of_living_index":"147.81",
+       "cost_of_living_plus_rent_index":"119.78",
+       "country":"Bermuda",
+       "groceries_index":"154.40",
+       "last_updated_timestamp":"2022-02-25 06:01:21.290341+00:00",
+       "local_purchasing_power_index":"88.10",
+       "name":"Hamilton",
+       "rent_index":"88.78",
+       "restaurant_price_index":"154.25",
+       "us_state":"N/A"
+    },
+    {
+       "cost_of_living_details":[
+          {
+             "currency":"USD",
+             "details":[
+                {
+                   "Item":"Estimated Monthly Costs Without Rent",
+                   "Range":"N/A",
+                   "Value":"1364.22"
+                },
+                {
+                   "Item":"Meal, Inexpensive Restaurant",
+                   "Range":"9.94-39.73",
+                   "Value":"19.87"
+                },
+                {
+                   "Item":"Meal for 2 People, Mid-range Restaurant, Three-course",
+                   "Range":"69.53-178.8",
+                   "Value":"99.33"
+                },
+                {
+                   "Item":"McMeal at McDonalds (or Equivalent Combo Meal)",
+                   "Range":"7.95-11.92",
+                   "Value":"9.94"
+                },
+                {
+                   "Item":"Domestic Beer (1 pint draught)",
+                   "Range":"3.97-10.93",
+                   "Value":"7.76"
+                },
+                {
+                   "Item":"Imported Beer (12 oz small bottle)",
+                   "Range":"6.88-14.9",
+                   "Value":"8.94"
+                },
+                {
+                   "Item":"Cappuccino (regular)",
+                   "Range":"2.98-6.95",
+                   "Value":"4.96"
+                },
+                {
+                   "Item":"Coke/Pepsi (12 oz small bottle)",
+                   "Range":"1.48-3.97",
+                   "Value":"2.39"
+                },
+                {
+                   "Item":"Water (12 oz small bottle)",
+                   "Range":"1.37-2.98",
+                   "Value":"1.9"
+                },
+                {
+                   "Item":"Milk (regular), (1 gallon)",
+                   "Range":"3.47-6.2",
+                   "Value":"4.51"
+                },
+                {
+                   "Item":"Loaf of Fresh White Bread (1 lb)",
+                   "Range":"1.99-5.45",
+                   "Value":"3.63"
+                },
+                {
+                   "Item":"Rice (white), (1 lb)",
+                   "Range":"0.99-4.97",
+                   "Value":"2.41"
+                },
+                {
+                   "Item":"Eggs (regular) (12)",
+                   "Range":"1.77-6.73",
+                   "Value":"3.36"
+                },
+                {
+                   "Item":"Local Cheese (1 lb)",
+                   "Range":"3.96-15.9",
+                   "Value":"6.75"
+                },
+                {
+                   "Item":"Chicken Fillets (1 lb)",
+                   "Range":"2.98-9.94",
+                   "Value":"6.09"
+                },
+                {
+                   "Item":"Beef Round (1 lb) (or Equivalent Back Leg Red Meat)",
+                   "Range":"3.96-14.89",
+                   "Value":"8.18"
+                },
+                {
+                   "Item":"Apples (1 lb)",
+                   "Range":"0.99-3.97",
+                   "Value":"2.71"
+                },
+                {
+                   "Item":"Banana (1 lb)",
+                   "Range":"0.68-1.99",
+                   "Value":"1.23"
+                },
+                {
+                   "Item":"Oranges (1 lb)",
+                   "Range":"1.16-4.97",
+                   "Value":"2.6"
+                },
+                {
+                   "Item":"Tomato (1 lb)",
+                   "Range":"1.35-3.97",
+                   "Value":"2.87"
+                },
+                {
+                   "Item":"Potato (1 lb)",
+                   "Range":"0.9-3.97",
+                   "Value":"1.92"
+                },
+                {
+                   "Item":"Onion (1 lb)",
+                   "Range":"0.88-2.98",
+                   "Value":"1.71"
+                },
+                {
+                   "Item":"Lettuce (1 head)",
+                   "Range":"1.48-2.98",
+                   "Value":"2.37"
+                },
+                {
+                   "Item":"Water (1.5 liter bottle)",
+                   "Range":"1.79-2.98",
+                   "Value":"2.38"
+                },
+                {
+                   "Item":"Bottle of Wine (Mid-Range)",
+                   "Range":"9.94-19.87",
+                   "Value":"14.9"
+                },
+                {
+                   "Item":"Domestic Beer (0.5 liter bottle)",
+                   "Range":"1.77-4.25",
+                   "Value":"3.14"
+                },
+                {
+                   "Item":"Imported Beer (12 oz small bottle)",
+                   "Range":"1.79-4.97",
+                   "Value":"3.3"
+                },
+                {
+                   "Item":"Cigarettes 20 Pack (Marlboro)",
+                   "Range":"13.91-19.87",
+                   "Value":"14.9"
+                },
+                {
+                   "Item":"One-way Ticket (Local Transport)",
+                   "Range":"2.73-2.98",
+                   "Value":"2.73"
+                },
+                {
+                   "Item":"Monthly Pass (Regular Price)",
+                   "Range":"126.15-149.0",
+                   "Value":"128.63"
+                },
+                {
+                   "Item":"Taxi Start (Normal Tariff)",
+                   "Range":"2.48-5.96",
+                   "Value":"3.47"
+                },
+                {
+                   "Item":"Taxi 1 mile (Normal Tariff)",
+                   "Range":"2.48-4.97",
+                   "Value":"2.98"
+                },
+                {
+                   "Item":"Taxi 1hour Waiting (Normal Tariff)",
+                   "Range":"29.81-49.66",
+                   "Value":"29.81"
+                },
+                {
+                   "Item":"Gasoline (1 gallon)",
+                   "Range":"2.29-3.92",
+                   "Value":"3.18"
+                },
+                {
+                   "Item":"Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car)",
+                   "Range":"N/A",
+                   "Value":"24833.32"
+                },
+                {
+                   "Item":"Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car)",
+                   "Range":"N/A",
+                   "Value":"24003.79"
+                },
+                {
+                   "Item":"Basic (Electricity, Heating, Cooling, Water, Garbage) for 915 sq ft Apartment",
+                   "Range":"115.14-298.0",
+                   "Value":"164.86"
+                },
+                {
+                   "Item":"1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans)",
+                   "Range":"0.02-0.13",
+                   "Value":"0.11"
+                },
+                {
+                   "Item":"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",
+                   "Range":"49.66-89.4",
+                   "Value":"65.09"
+                },
+                {
+                   "Item":"Fitness Club, Monthly Fee for 1 Adult",
+                   "Range":"49.66-188.73",
+                   "Value":"105.01"
+                },
+                {
+                   "Item":"Tennis Court Rent (1 Hour on Weekend)",
+                   "Range":"14.9-74.5",
+                   "Value":"42.63"
+                },
+                {
+                   "Item":"Cinema, International Release, 1 Seat",
+                   "Range":"14.9-19.87",
+                   "Value":"17.38"
+                },
+                {
+                   "Item":"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",
+                   "Range":"N/A",
+                   "Value":"2384.38"
+                },
+                {
+                   "Item":"International Primary School, Yearly for 1 Child",
+                   "Range":"N/A",
+                   "Value":"40004.22"
+                },
+                {
+                   "Item":"1 Pair of Jeans (Levis 501 Or Similar)",
+                   "Range":"39.73-89.4",
+                   "Value":"62.54"
+                },
+                {
+                   "Item":"1 Summer Dress in a Chain Store (Zara, H&M, ...)",
+                   "Range":"19.87-74.5",
+                   "Value":"49.74"
+                },
+                {
+                   "Item":"1 Pair of Nike Running Shoes (Mid-Range)",
+                   "Range":"64.57-149.0",
+                   "Value":"95.98"
+                },
+                {
+                   "Item":"1 Pair of Men Leather Business Shoes",
+                   "Range":"69.53-248.33",
+                   "Value":"141.1"
+                },
+                {
+                   "Item":"Apartment (1 bedroom) in City Centre",
+                   "Range":"N/A",
+                   "Value":"3243.97"
+                },
+                {
+                   "Item":"Apartment (1 bedroom) Outside of Centre",
+                   "Range":"N/A",
+                   "Value":"2251.8"
+                },
+                {
+                   "Item":"Apartment (3 bedrooms) in City Centre",
+                   "Range":"N/A",
+                   "Value":"6544.01"
+                },
+                {
+                   "Item":"Apartment (3 bedrooms) Outside of Centre",
+                   "Range":"N/A",
+                   "Value":"3832.94"
+                },
+                {
+                   "Item":"Apartment (Shared Room in a 3 Bedrooms Apartment) in City Centre",
+                   "Range":"1527.98-3311.11",
+                   "Value":"2181.34"
+                },
+                {
+                   "Item":"Apartment (Shared Room in a 3 Bedrooms Apartment) Outside of Centre",
+                   "Range":"856.26-1986.67",
+                   "Value":"1277.65"
+                },
+                {
+                   "Item":"Price per Square Feet to Buy Apartment in City Centre",
+                   "Range":"N/A",
+                   "Value":"1415.75"
+                },
+                {
+                   "Item":"Price per Square Feet to Buy Apartment Outside of Centre",
+                   "Range":"461.41-993.33",
+                   "Value":"762.44"
+                },
+                {
+                   "Item":"Average Monthly Net Salary (After Tax)",
+                   "Range":"N/A",
+                   "Value":"6054.77"
+                },
+                {
+                   "Item":"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",
+                   "Range":"3.07-4.91",
+                   "Value":"3.63"
+                }
+             ]
+          }
+       ],
+       "cost_of_living_index":"100.00",
+       "cost_of_living_plus_rent_index":"100.00",
+       "country":"United States",
+       "groceries_index":"100.00",
+       "last_updated_timestamp":"2022-02-25 06:01:25.671931+00:00",
+       "local_purchasing_power_index":"100.00",
+       "name":"New York",
+       "rent_index":"100.00",
+       "restaurant_price_index":"100.00",
+       "us_state":"NY"
+    },
+    {
+       "cost_of_living_details":[
+          {
+             "currency":"USD",
+             "details":[
+                {
+                   "Item":"Estimated Monthly Costs Without Rent",
+                   "Range":"N/A",
+                   "Value":"1083.08"
+                },
+                {
+                   "Item":"Meal, Inexpensive Restaurant",
+                   "Range":"5.73-12.73",
+                   "Value":"7.64"
+                },
+                {
+                   "Item":"Meal for 2 People, Mid-range Restaurant, Three-course",
+                   "Range":"44.53-127.21",
+                   "Value":"63.61"
+                },
+                {
+                   "Item":"McMeal at McDonalds (or Equivalent Combo Meal)",
+                   "Range":"4.45-6.36",
+                   "Value":"5.09"
+                },
+                {
+                   "Item":"Domestic Beer (1 pint draught)",
+                   "Range":"3.18-10.18",
+                   "Value":"7.64"
+                },
+                {
+                   "Item":"Imported Beer (12 oz small bottle)",
+                   "Range":"3.82-9.8",
+                   "Value":"6.36"
+                },
+                {
+                   "Item":"Cappuccino (regular)",
+                   "Range":"2.92-6.36",
+                   "Value":"4.83"
+                },
+                {
+                   "Item":"Coke/Pepsi (12 oz small bottle)",
+                   "Range":"0.76-1.91",
+                   "Value":"1.14"
+                },
+                {
+                   "Item":"Water (12 oz small bottle)",
+                   "Range":"0.64-1.53",
+                   "Value":"0.99"
+                },
+                {
+                   "Item":"Milk (regular), (1 gallon)",
+                   "Range":"7.22-14.44",
+                   "Value":"11.44"
+                },
+                {
+                   "Item":"Loaf of Fresh White Bread (1 lb)",
+                   "Range":"1.27-3.0",
+                   "Value":"1.9"
+                },
+                {
+                   "Item":"Rice (white), (1 lb)",
+                   "Range":"0.58-1.73",
+                   "Value":"0.93"
+                },
+                {
+                   "Item":"Eggs (regular) (12)",
+                   "Range":"1.91-4.58",
+                   "Value":"3.45"
+                },
+                {
+                   "Item":"Local Cheese (1 lb)",
+                   "Range":"4.04-23.09",
+                   "Value":"10.87"
+                },
+                {
+                   "Item":"Chicken Fillets (1 lb)",
+                   "Range":"1.73-8.65",
+                   "Value":"4.57"
+                },
+                {
+                   "Item":"Beef Round (1 lb) (or Equivalent Back Leg Red Meat)",
+                   "Range":"4.62-20.19",
+                   "Value":"9.82"
+                },
+                {
+                   "Item":"Apples (1 lb)",
+                   "Range":"0.87-3.46",
+                   "Value":"1.89"
+                },
+                {
+                   "Item":"Banana (1 lb)",
+                   "Range":"0.58-2.55",
+                   "Value":"1.08"
+                },
+                {
+                   "Item":"Oranges (1 lb)",
+                   "Range":"0.69-3.82",
+                   "Value":"1.64"
+                },
+                {
+                   "Item":"Tomato (1 lb)",
+                   "Range":"0.4-1.91",
+                   "Value":"1.24"
+                },
+                {
+                   "Item":"Potato (1 lb)",
+                   "Range":"0.4-1.73",
+                   "Value":"1.08"
+                },
+                {
+                   "Item":"Onion (1 lb)",
+                   "Range":"0.58-1.73",
+                   "Value":"1.11"
+                },
+                {
+                   "Item":"Lettuce (1 head)",
+                   "Range":"0.76-2.55",
+                   "Value":"1.57"
+                },
+                {
+                   "Item":"Water (1.5 liter bottle)",
+                   "Range":"1.02-2.55",
+                   "Value":"1.63"
+                },
+                {
+                   "Item":"Bottle of Wine (Mid-Range)",
+                   "Range":"10.18-31.8",
+                   "Value":"15.27"
+                },
+                {
+                   "Item":"Domestic Beer (0.5 liter bottle)",
+                   "Range":"1.27-3.56",
+                   "Value":"2.17"
+                },
+                {
+                   "Item":"Imported Beer (12 oz small bottle)",
+                   "Range":"1.27-3.82",
+                   "Value":"2.65"
+                },
+                {
+                   "Item":"Cigarettes 20 Pack (Marlboro)",
+                   "Range":"7.64-10.18",
+                   "Value":"7.64"
+                },
+                {
+                   "Item":"One-way Ticket (Local Transport)",
+                   "Range":"1.02-2.29",
+                   "Value":"1.27"
+                },
+                {
+                   "Item":"Monthly Pass (Regular Price)",
+                   "Range":"50.89-99.23",
+                   "Value":"63.61"
+                },
+                {
+                   "Item":"Taxi Start (Normal Tariff)",
+                   "Range":"2.8-3.56",
+                   "Value":"3.06"
+                },
+                {
+                   "Item":"Taxi 1 mile (Normal Tariff)",
+                   "Range":"1.54-4.1",
+                   "Value":"1.74"
+                },
+                {
+                   "Item":"Taxi 1hour Waiting (Normal Tariff)",
+                   "Range":"10.15-18.32",
+                   "Value":"12.97"
+                },
+                {
+                   "Item":"Gasoline (1 gallon)",
+                   "Range":"7.95-10.0",
+                   "Value":"9.35"
+                },
+                {
+                   "Item":"Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car)",
+                   "Range":"N/A",
+                   "Value":"33076.96"
+                },
+                {
+                   "Item":"Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car)",
+                   "Range":"N/A",
+                   "Value":"31260.27"
+                },
+                {
+                   "Item":"Basic (Electricity, Heating, Cooling, Water, Garbage) for 915 sq ft Apartment",
+                   "Range":"127.21-445.27",
+                   "Value":"232.06"
+                },
+                {
+                   "Item":"1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans)",
+                   "Range":"0.01-0.12",
+                   "Value":"0.11"
+                },
+                {
+                   "Item":"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",
+                   "Range":"15.27-44.53",
+                   "Value":"26.48"
+                },
+                {
+                   "Item":"Fitness Club, Monthly Fee for 1 Adult",
+                   "Range":"38.17-127.21",
+                   "Value":"85.82"
+                },
+                {
+                   "Item":"Tennis Court Rent (1 Hour on Weekend)",
+                   "Range":"6.62-12.73",
+                   "Value":"10.37"
+                },
+                {
+                   "Item":"Cinema, International Release, 1 Seat",
+                   "Range":"10.18-17.18",
+                   "Value":"12.73"
+                },
+                {
+                   "Item":"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",
+                   "Range":"N/A",
+                   "Value":"826.15"
+                },
+                {
+                   "Item":"International Primary School, Yearly for 1 Child",
+                   "Range":"N/A",
+                   "Value":"19024.2"
+                },
+                {
+                   "Item":"1 Pair of Jeans (Levis 501 Or Similar)",
+                   "Range":"44.53-101.77",
+                   "Value":"76.39"
+                },
+                {
+                   "Item":"1 Summer Dress in a Chain Store (Zara, H&M, ...)",
+                   "Range":"19.08-63.48",
+                   "Value":"34.76"
+                },
+                {
+                   "Item":"1 Pair of Nike Running Shoes (Mid-Range)",
+                   "Range":"61.06-127.21",
+                   "Value":"91.67"
+                },
+                {
+                   "Item":"1 Pair of Men Leather Business Shoes",
+                   "Range":"63.61-229.0",
+                   "Value":"122.16"
+                },
+                {
+                   "Item":"Apartment (1 bedroom) in City Centre",
+                   "Range":"N/A",
+                   "Value":"2240.21"
+                },
+                {
+                   "Item":"Apartment (1 bedroom) Outside of Centre",
+                   "Range":"N/A",
+                   "Value":"1492.79"
+                },
+                {
+                   "Item":"Apartment (3 bedrooms) in City Centre",
+                   "Range":"N/A",
+                   "Value":"4500.37"
+                },
+                {
+                   "Item":"Apartment (3 bedrooms) Outside of Centre",
+                   "Range":"N/A",
+                   "Value":"2995.75"
+                },
+                {
+                   "Item":"Apartment (Shared Room in a 3 Bedrooms Apartment) in City Centre",
+                   "Range":"1060.16-2332.35",
+                   "Value":"1500.13"
+                },
+                {
+                   "Item":"Apartment (Shared Room in a 3 Bedrooms Apartment) Outside of Centre",
+                   "Range":"763.31-1696.25",
+                   "Value":"998.59"
+                },
+                {
+                   "Item":"Price per Square Feet to Buy Apartment in City Centre",
+                   "Range":"N/A",
+                   "Value":"3034.87"
+                },
+                {
+                   "Item":"Price per Square Feet to Buy Apartment Outside of Centre",
+                   "Range":"N/A",
+                   "Value":"2124.0"
+                },
+                {
+                   "Item":"Average Monthly Net Salary (After Tax)",
+                   "Range":"N/A",
+                   "Value":"3015.36"
+                },
+                {
+                   "Item":"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",
+                   "Range":"1.67-3.35",
+                   "Value":"2.58"
+                }
+             ]
+          }
+       ],
+       "cost_of_living_index":"79.62",
+       "cost_of_living_plus_rent_index":"75.40",
+       "country":"Hong Kong",
+       "groceries_index":"82.60",
+       "last_updated_timestamp":"2022-02-25 06:01:49.926183+00:00",
+       "local_purchasing_power_index":"66.05",
+       "name":"Hong Kong",
+       "rent_index":"70.74",
+       "restaurant_price_index":"58.38",
+       "us_state":"N/A"
+    },
+    {
+       "cost_of_living_details":[
+          {
+             "currency":"USD",
+             "details":[
+                {
+                   "Item":"Estimated Monthly Costs Without Rent",
+                   "Range":"N/A",
+                   "Value":"1052.74"
+                },
+                {
+                   "Item":"Meal, Inexpensive Restaurant",
+                   "Range":"11.92-44.7",
+                   "Value":"19.87"
+                },
+                {
+                   "Item":"Meal for 2 People, Mid-range Restaurant, Three-course",
+                   "Range":"49.66-163.9",
+                   "Value":"79.47"
+                },
+                {
+                   "Item":"McMeal at McDonalds (or Equivalent Combo Meal)",
+                   "Range":"7.54-9.94",
+                   "Value":"8.94"
+                },
+                {
+                   "Item":"Domestic Beer (1 pint draught)",
+                   "Range":"4.97-11.92",
+                   "Value":"7.95"
+                },
+                {
+                   "Item":"Imported Beer (12 oz small bottle)",
+                   "Range":"5.96-10.93",
+                   "Value":"8.44"
+                },
+                {
+                   "Item":"Cappuccino (regular)",
+                   "Range":"2.98-5.96",
+                   "Value":"4.74"
+                },
+                {
+                   "Item":"Coke/Pepsi (12 oz small bottle)",
+                   "Range":"1.94-3.97",
+                   "Value":"2.44"
+                },
+                {
+                   "Item":"Water (12 oz small bottle)",
+                   "Range":"1.94-3.97",
+                   "Value":"2.2"
+                },
+                {
+                   "Item":"Milk (regular), (1 gallon)",
+                   "Range":"2.97-5.76",
+                   "Value":"3.76"
+                },
+                {
+                   "Item":"Loaf of Fresh White Bread (1 lb)",
+                   "Range":"1.98-4.97",
+                   "Value":"3.11"
+                },
+                {
+                   "Item":"Rice (white), (1 lb)",
+                   "Range":"0.88-4.26",
+                   "Value":"1.89"
+                },
+                {
+                   "Item":"Eggs (regular) (12)",
+                   "Range":"1.98-4.97",
+                   "Value":"3.45"
+                },
+                {
+                   "Item":"Local Cheese (1 lb)",
+                   "Range":"2.98-9.94",
+                   "Value":"5.48"
+                },
+                {
+                   "Item":"Chicken Fillets (1 lb)",
+                   "Range":"1.99-7.95",
+                   "Value":"5.31"
+                },
+                {
+                   "Item":"Beef Round (1 lb) (or Equivalent Back Leg Red Meat)",
+                   "Range":"3.97-9.92",
+                   "Value":"7.11"
+                },
+                {
+                   "Item":"Apples (1 lb)",
+                   "Range":"0.79-2.98",
+                   "Value":"1.82"
+                },
+                {
+                   "Item":"Banana (1 lb)",
+                   "Range":"0.46-1.98",
+                   "Value":"0.74"
+                },
+                {
+                   "Item":"Oranges (1 lb)",
+                   "Range":"0.49-2.98",
+                   "Value":"1.48"
+                },
+                {
+                   "Item":"Tomato (1 lb)",
+                   "Range":"0.68-2.98",
+                   "Value":"1.79"
+                },
+                {
+                   "Item":"Potato (1 lb)",
+                   "Range":"0.25-1.99",
+                   "Value":"1.0"
+                },
+                {
+                   "Item":"Onion (1 lb)",
+                   "Range":"0.32-1.98",
+                   "Value":"0.97"
+                },
+                {
+                   "Item":"Lettuce (1 head)",
+                   "Range":"0.69-2.97",
+                   "Value":"1.73"
+                },
+                {
+                   "Item":"Water (1.5 liter bottle)",
+                   "Range":"0.79-2.98",
+                   "Value":"1.84"
+                },
+                {
+                   "Item":"Bottle of Wine (Mid-Range)",
+                   "Range":"7.94-24.84",
+                   "Value":"11.92"
+                },
+                {
+                   "Item":"Domestic Beer (0.5 liter bottle)",
+                   "Range":"1.42-4.25",
+                   "Value":"2.44"
+                },
+                {
+                   "Item":"Imported Beer (12 oz small bottle)",
+                   "Range":"1.48-3.97",
+                   "Value":"2.38"
+                },
+                {
+                   "Item":"Cigarettes 20 Pack (Marlboro)",
+                   "Range":"8.94-11.92",
+                   "Value":"9.94"
+                },
+                {
+                   "Item":"One-way Ticket (Local Transport)",
+                   "Range":"1.74-2.98",
+                   "Value":"1.74"
+                },
+                {
+                   "Item":"Monthly Pass (Regular Price)",
+                   "Range":"59.6-119.2",
+                   "Value":"99.33"
+                },
+                {
+                   "Item":"Taxi Start (Normal Tariff)",
+                   "Range":"2.84-4.97",
+                   "Value":"2.98"
+                },
+                {
+                   "Item":"Taxi 1 mile (Normal Tariff)",
+                   "Range":"2.68-3.96",
+                   "Value":"2.68"
+                },
+                {
+                   "Item":"Taxi 1hour Waiting (Normal Tariff)",
+                   "Range":"28.99-29.81",
+                   "Value":"28.99"
+                },
+                {
+                   "Item":"Gasoline (1 gallon)",
+                   "Range":"3.53-4.97",
+                   "Value":"4.35"
+                },
+                {
+                   "Item":"Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car)",
+                   "Range":"N/A",
+                   "Value":"24833.32"
+                },
+                {
+                   "Item":"Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car)",
+                   "Range":"N/A",
+                   "Value":"22070.62"
+                },
+                {
+                   "Item":"Basic (Electricity, Heating, Cooling, Water, Garbage) for 915 sq ft Apartment",
+                   "Range":"81.79-248.33",
+                   "Value":"146.99"
+                },
+                {
+                   "Item":"1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans)",
+                   "Range":"0.04-0.15",
+                   "Value":"0.12"
+                },
+                {
+                   "Item":"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",
+                   "Range":"49.66-89.4",
+                   "Value":"65.74"
+                },
+                {
+                   "Item":"Fitness Club, Monthly Fee for 1 Adult",
+                   "Range":"24.84-99.33",
+                   "Value":"44.51"
+                },
+                {
+                   "Item":"Tennis Court Rent (1 Hour on Weekend)",
+                   "Range":"4.97-17.88",
+                   "Value":"11.14"
+                },
+                {
+                   "Item":"Cinema, International Release, 1 Seat",
+                   "Range":"12.92-19.87",
+                   "Value":"14.9"
+                },
+                {
+                   "Item":"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",
+                   "Range":"N/A",
+                   "Value":"1203.71"
+                },
+                {
+                   "Item":"International Primary School, Yearly for 1 Child",
+                   "Range":"N/A",
+                   "Value":"27165.74"
+                },
+                {
+                   "Item":"1 Pair of Jeans (Levis 501 Or Similar)",
+                   "Range":"29.81-79.47",
+                   "Value":"54.77"
+                },
+                {
+                   "Item":"1 Summer Dress in a Chain Store (Zara, H&M, ...)",
+                   "Range":"24.84-59.6",
+                   "Value":"42.39"
+                },
+                {
+                   "Item":"1 Pair of Nike Running Shoes (Mid-Range)",
+                   "Range":"59.6-113.24",
+                   "Value":"84.49"
+                },
+                {
+                   "Item":"1 Pair of Men Leather Business Shoes",
+                   "Range":"59.6-198.67",
+                   "Value":"121.7"
+                },
+                {
+                   "Item":"Apartment (1 bedroom) in City Centre",
+                   "Range":"N/A",
+                   "Value":"2287.05"
+                },
+                {
+                   "Item":"Apartment (1 bedroom) Outside of Centre",
+                   "Range":"N/A",
+                   "Value":"1657.98"
+                },
+                {
+                   "Item":"Apartment (3 bedrooms) in City Centre",
+                   "Range":"N/A",
+                   "Value":"4402.96"
+                },
+                {
+                   "Item":"Apartment (3 bedrooms) Outside of Centre",
+                   "Range":"N/A",
+                   "Value":"3227.46"
+                },
+                {
+                   "Item":"Apartment (Shared Room in a 3 Bedrooms Apartment) in City Centre",
+                   "Range":"993.33-1986.67",
+                   "Value":"1467.66"
+                },
+                {
+                   "Item":"Apartment (Shared Room in a 3 Bedrooms Apartment) Outside of Centre",
+                   "Range":"827.78-1490.0",
+                   "Value":"1075.82"
+                },
+                {
+                   "Item":"Price per Square Feet to Buy Apartment in City Centre",
+                   "Range":"595.99-993.33",
+                   "Value":"823.3"
+                },
+                {
+                   "Item":"Price per Square Feet to Buy Apartment Outside of Centre",
+                   "Range":"447.0-695.33",
+                   "Value":"538.07"
+                },
+                {
+                   "Item":"Average Monthly Net Salary (After Tax)",
+                   "Range":"N/A",
+                   "Value":"5791.14"
+                },
+                {
+                   "Item":"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",
+                   "Range":"2.9-4.47",
+                   "Value":"3.51"
+                }
+             ]
+          }
+       ],
+       "cost_of_living_index":"78.53",
+       "cost_of_living_plus_rent_index":"75.87",
+       "country":"United States",
+       "groceries_index":"74.39",
+       "last_updated_timestamp":"2022-02-25 06:01:49.994697+00:00",
+       "local_purchasing_power_index":"126.07",
+       "name":"Los Angeles",
+       "rent_index":"72.93",
+       "restaurant_price_index":"91.42",
+       "us_state":"CA"
+    },
+    {
+       "cost_of_living_details":[
+          {
+             "currency":"USD",
+             "details":[
+                {
+                   "Item":"Estimated Monthly Costs Without Rent",
+                   "Range":"N/A",
+                   "Value":"1064.56"
+                },
+                {
+                   "Item":"Meal, Inexpensive Restaurant",
+                   "Range":"11.16-27.91",
+                   "Value":"16.74"
+                },
+                {
+                   "Item":"Meal for 2 People, Mid-range Restaurant, Three-course",
+                   "Range":"44.65-89.3",
+                   "Value":"66.98"
+                },
+                {
+                   "Item":"McMeal at McDonalds (or Equivalent Combo Meal)",
+                   "Range":"8.93-11.8",
+                   "Value":"10.05"
+                },
+                {
+                   "Item":"Domestic Beer (1 pint draught)",
+                   "Range":"4.47-8.93",
+                   "Value":"6.7"
+                },
+                {
+                   "Item":"Imported Beer (12 oz small bottle)",
+                   "Range":"4.47-8.93",
+                   "Value":"6.7"
+                },
+                {
+                   "Item":"Cappuccino (regular)",
+                   "Range":"1.67-5.8",
+                   "Value":"4.04"
+                },
+                {
+                   "Item":"Coke/Pepsi (12 oz small bottle)",
+                   "Range":"2.23-5.58",
+                   "Value":"3.32"
+                },
+                {
+                   "Item":"Water (12 oz small bottle)",
+                   "Range":"1.12-3.91",
+                   "Value":"2.09"
+                },
+                {
+                   "Item":"Milk (regular), (1 gallon)",
+                   "Range":"3.38-7.6",
+                   "Value":"4.79"
+                },
+                {
+                   "Item":"Loaf of Fresh White Bread (1 lb)",
+                   "Range":"1.02-4.05",
+                   "Value":"2.07"
+                },
+                {
+                   "Item":"Rice (white), (1 lb)",
+                   "Range":"0.5-2.02",
+                   "Value":"1.05"
+                },
+                {
+                   "Item":"Eggs (regular) (12)",
+                   "Range":"2.01-6.7",
+                   "Value":"4.15"
+                },
+                {
+                   "Item":"Local Cheese (1 lb)",
+                   "Range":"5.01-18.99",
+                   "Value":"9.23"
+                },
+                {
+                   "Item":"Chicken Fillets (1 lb)",
+                   "Range":"3.04-11.64",
+                   "Value":"6.61"
+                },
+                {
+                   "Item":"Beef Round (1 lb) (or Equivalent Back Leg Red Meat)",
+                   "Range":"5.07-17.73",
+                   "Value":"9.98"
+                },
+                {
+                   "Item":"Apples (1 lb)",
+                   "Range":"0.5-2.02",
+                   "Value":"1.34"
+                },
+                {
+                   "Item":"Banana (1 lb)",
+                   "Range":"0.5-1.52",
+                   "Value":"0.96"
+                },
+                {
+                   "Item":"Oranges (1 lb)",
+                   "Range":"0.5-2.02",
+                   "Value":"1.33"
+                },
+                {
+                   "Item":"Tomato (1 lb)",
+                   "Range":"1.0-2.53",
+                   "Value":"1.65"
+                },
+                {
+                   "Item":"Potato (1 lb)",
+                   "Range":"0.5-1.77",
+                   "Value":"0.97"
+                },
+                {
+                   "Item":"Onion (1 lb)",
+                   "Range":"0.5-1.98",
+                   "Value":"1.08"
+                },
+                {
+                   "Item":"Lettuce (1 head)",
+                   "Range":"1.12-2.23",
+                   "Value":"1.5"
+                },
+                {
+                   "Item":"Water (1.5 liter bottle)",
+                   "Range":"0.45-2.34",
+                   "Value":"0.99"
+                },
+                {
+                   "Item":"Bottle of Wine (Mid-Range)",
+                   "Range":"5.58-16.74",
+                   "Value":"8.93"
+                },
+                {
+                   "Item":"Domestic Beer (0.5 liter bottle)",
+                   "Range":"0.89-3.35",
+                   "Value":"2.04"
+                },
+                {
+                   "Item":"Imported Beer (12 oz small bottle)",
+                   "Range":"1.34-4.47",
+                   "Value":"2.87"
+                },
+                {
+                   "Item":"Cigarettes 20 Pack (Marlboro)",
+                   "Range":"11.16-12.28",
+                   "Value":"11.16"
+                },
+                {
+                   "Item":"One-way Ticket (Local Transport)",
+                   "Range":"1.89-2.23",
+                   "Value":"2.12"
+                },
+                {
+                   "Item":"Monthly Pass (Regular Price)",
+                   "Range":"78.14-87.07",
+                   "Value":"83.72"
+                },
+                {
+                   "Item":"Taxi Start (Normal Tariff)",
+                   "Range":"3.35-7.81",
+                   "Value":"5.58"
+                },
+                {
+                   "Item":"Taxi 1 mile (Normal Tariff)",
+                   "Range":"1.89-5.39",
+                   "Value":"2.87"
+                },
+                {
+                   "Item":"Taxi 1hour Waiting (Normal Tariff)",
+                   "Range":"35.09-72.56",
+                   "Value":"50.23"
+                },
+                {
+                   "Item":"Gasoline (1 gallon)",
+                   "Range":"5.49-8.03",
+                   "Value":"6.9"
+                },
+                {
+                   "Item":"Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car)",
+                   "Range":"N/A",
+                   "Value":"22326.0"
+                },
+                {
+                   "Item":"Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car)",
+                   "Range":"N/A",
+                   "Value":"26202.04"
+                },
+                {
+                   "Item":"Basic (Electricity, Heating, Cooling, Water, Garbage) for 915 sq ft Apartment",
+                   "Range":"113.86-334.89",
+                   "Value":"199.1"
+                },
+                {
+                   "Item":"1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans)",
+                   "Range":"0.06-0.22",
+                   "Value":"0.18"
+                },
+                {
+                   "Item":"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",
+                   "Range":"22.33-44.65",
+                   "Value":"33.11"
+                },
+                {
+                   "Item":"Fitness Club, Monthly Fee for 1 Adult",
+                   "Range":"22.33-75.91",
+                   "Value":"41.14"
+                },
+                {
+                   "Item":"Tennis Court Rent (1 Hour on Weekend)",
+                   "Range":"10.05-27.91",
+                   "Value":"17.43"
+                },
+                {
+                   "Item":"Cinema, International Release, 1 Seat",
+                   "Range":"10.05-16.74",
+                   "Value":"13.4"
+                },
+                {
+                   "Item":"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",
+                   "Range":"N/A",
+                   "Value":"807.17"
+                },
+                {
+                   "Item":"International Primary School, Yearly for 1 Child",
+                   "Range":"N/A",
+                   "Value":"16884.04"
+                },
+                {
+                   "Item":"1 Pair of Jeans (Levis 501 Or Similar)",
+                   "Range":"66.98-133.96",
+                   "Value":"108.63"
+                },
+                {
+                   "Item":"1 Summer Dress in a Chain Store (Zara, H&M, ...)",
+                   "Range":"22.33-78.14",
+                   "Value":"40.95"
+                },
+                {
+                   "Item":"1 Pair of Nike Running Shoes (Mid-Range)",
+                   "Range":"78.13-133.96",
+                   "Value":"101.68"
+                },
+                {
+                   "Item":"1 Pair of Men Leather Business Shoes",
+                   "Range":"66.98-279.08",
+                   "Value":"160.94"
+                },
+                {
+                   "Item":"Apartment (1 bedroom) in City Centre",
+                   "Range":"N/A",
+                   "Value":"1403.29"
+                },
+                {
+                   "Item":"Apartment (1 bedroom) Outside of Centre",
+                   "Range":"N/A",
+                   "Value":"980.62"
+                },
+                {
+                   "Item":"Apartment (3 bedrooms) in City Centre",
+                   "Range":"N/A",
+                   "Value":"3015.15"
+                },
+                {
+                   "Item":"Apartment (3 bedrooms) Outside of Centre",
+                   "Range":"N/A",
+                   "Value":"2071.79"
+                },
+                {
+                   "Item":"Apartment (Shared Room in a 3 Bedrooms Apartment) in City Centre",
+                   "Range":"669.78-1488.4",
+                   "Value":"1005.05"
+                },
+                {
+                   "Item":"Apartment (Shared Room in a 3 Bedrooms Apartment) Outside of Centre",
+                   "Range":"446.52-930.25",
+                   "Value":"690.6"
+                },
+                {
+                   "Item":"Price per Square Feet to Buy Apartment in City Centre",
+                   "Range":"N/A",
+                   "Value":"1308.14"
+                },
+                {
+                   "Item":"Price per Square Feet to Buy Apartment Outside of Centre",
+                   "Range":"N/A",
+                   "Value":"957.37"
+                },
+                {
+                   "Item":"Average Monthly Net Salary (After Tax)",
+                   "Range":"N/A",
+                   "Value":"3100.66"
+                },
+                {
+                   "Item":"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",
+                   "Range":"1.12-2.23",
+                   "Value":"1.4"
+                }
+             ]
+          }
+       ],
+       "cost_of_living_index":"81.85",
+       "cost_of_living_plus_rent_index":"65.33",
+       "country":"France",
+       "groceries_index":"80.94",
+       "last_updated_timestamp":"2022-02-25 06:01:43.310481+00:00",
+       "local_purchasing_power_index":"78.38",
+       "name":"Paris",
+       "rent_index":"47.07",
+       "restaurant_price_index":"79.53",
+       "us_state":"N/A"
+    },
+    {
+       "cost_of_living_details":[
+          {
+             "currency":"USD",
+             "details":[
+                {
+                   "Item":"Estimated Monthly Costs Without Rent",
+                   "Range":"N/A",
+                   "Value":"869.11"
+                },
+                {
+                   "Item":"Meal, Inexpensive Restaurant",
+                   "Range":"8.55-19.43",
+                   "Value":"12.04"
+                },
+                {
+                   "Item":"Meal for 2 People, Mid-range Restaurant, Three-course",
+                   "Range":"46.65-97.17",
+                   "Value":"62.19"
+                },
+                {
+                   "Item":"McMeal at McDonalds (or Equivalent Combo Meal)",
+                   "Range":"7.0-9.72",
+                   "Value":"8.94"
+                },
+                {
+                   "Item":"Domestic Beer (1 pint draught)",
+                   "Range":"2.33-7.0",
+                   "Value":"4.67"
+                },
+                {
+                   "Item":"Imported Beer (12 oz small bottle)",
+                   "Range":"3.88-6.22",
+                   "Value":"5.44"
+                },
+                {
+                   "Item":"Cappuccino (regular)",
+                   "Range":"1.55-4.39",
+                   "Value":"3.19"
+                },
+                {
+                   "Item":"Coke/Pepsi (12 oz small bottle)",
+                   "Range":"1.16-2.33",
+                   "Value":"1.7"
+                },
+                {
+                   "Item":"Water (12 oz small bottle)",
+                   "Range":"0.78-1.55",
+                   "Value":"1.13"
+                },
+                {
+                   "Item":"Milk (regular), (1 gallon)",
+                   "Range":"3.62-13.22",
+                   "Value":"6.74"
+                },
+                {
+                   "Item":"Loaf of Fresh White Bread (1 lb)",
+                   "Range":"1.41-3.52",
+                   "Value":"2.03"
+                },
+                {
+                   "Item":"Rice (white), (1 lb)",
+                   "Range":"0.7-2.47",
+                   "Value":"1.5"
+                },
+                {
+                   "Item":"Eggs (regular) (12)",
+                   "Range":"1.55-3.88",
+                   "Value":"2.82"
+                },
+                {
+                   "Item":"Local Cheese (1 lb)",
+                   "Range":"1.76-14.11",
+                   "Value":"5.2"
+                },
+                {
+                   "Item":"Chicken Fillets (1 lb)",
+                   "Range":"1.76-7.0",
+                   "Value":"5.28"
+                },
+                {
+                   "Item":"Beef Round (1 lb) (or Equivalent Back Leg Red Meat)",
+                   "Range":"1.76-5.64",
+                   "Value":"4.1"
+                },
+                {
+                   "Item":"Apples (1 lb)",
+                   "Range":"0.7-2.71",
+                   "Value":"1.71"
+                },
+                {
+                   "Item":"Banana (1 lb)",
+                   "Range":"0.44-1.41",
+                   "Value":"0.67"
+                },
+                {
+                   "Item":"Oranges (1 lb)",
+                   "Range":"0.36-2.29",
+                   "Value":"1.36"
+                },
+                {
+                   "Item":"Tomato (1 lb)",
+                   "Range":"0.59-2.33",
+                   "Value":"1.62"
+                },
+                {
+                   "Item":"Potato (1 lb)",
+                   "Range":"0.21-1.41",
+                   "Value":"0.87"
+                },
+                {
+                   "Item":"Onion (1 lb)",
+                   "Range":"0.39-1.41",
+                   "Value":"0.99"
+                },
+                {
+                   "Item":"Lettuce (1 head)",
+                   "Range":"1.16-2.33",
+                   "Value":"1.89"
+                },
+                {
+                   "Item":"Water (1.5 liter bottle)",
+                   "Range":"0.78-2.33",
+                   "Value":"1.55"
+                },
+                {
+                   "Item":"Bottle of Wine (Mid-Range)",
+                   "Range":"9.33-19.43",
+                   "Value":"11.67"
+                },
+                {
+                   "Item":"Domestic Beer (0.5 liter bottle)",
+                   "Range":"1.16-2.33",
+                   "Value":"2.01"
+                },
+                {
+                   "Item":"Imported Beer (12 oz small bottle)",
+                   "Range":"1.94-2.41",
+                   "Value":"2.24"
+                },
+                {
+                   "Item":"Cigarettes 20 Pack (Marlboro)",
+                   "Range":"7.77-13.22",
+                   "Value":"11.43"
+                },
+                {
+                   "Item":"One-way Ticket (Local Transport)",
+                   "Range":"2.33-2.72",
+                   "Value":"2.52"
+                },
+                {
+                   "Item":"Monthly Pass (Regular Price)",
+                   "Range":"85.52-97.33",
+                   "Value":"85.52"
+                },
+                {
+                   "Item":"Taxi Start (Normal Tariff)",
+                   "Range":"3.04-5.64",
+                   "Value":"3.04"
+                },
+                {
+                   "Item":"Taxi 1 mile (Normal Tariff)",
+                   "Range":"2.25-2.25",
+                   "Value":"2.25"
+                },
+                {
+                   "Item":"Taxi 1hour Waiting (Normal Tariff)",
+                   "Range":"25.98-27.99",
+                   "Value":"25.98"
+                },
+                {
+                   "Item":"Gasoline (1 gallon)",
+                   "Range":"2.95-4.57",
+                   "Value":"4.03"
+                },
+                {
+                   "Item":"Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car)",
+                   "Range":"N/A",
+                   "Value":"17713.4"
+                },
+                {
+                   "Item":"Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car)",
+                   "Range":"N/A",
+                   "Value":"18580.22"
+                },
+                {
+                   "Item":"Basic (Electricity, Heating, Cooling, Water, Garbage) for 915 sq ft Apartment",
+                   "Range":"66.08-155.48",
+                   "Value":"111.74"
+                },
+                {
+                   "Item":"1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans)",
+                   "Range":"0.03-0.31",
+                   "Value":"0.19"
+                },
+                {
+                   "Item":"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",
+                   "Range":"54.42-87.07",
+                   "Value":"66.23"
+                },
+                {
+                   "Item":"Fitness Club, Monthly Fee for 1 Adult",
+                   "Range":"23.32-48.2",
+                   "Value":"35.91"
+                },
+                {
+                   "Item":"Tennis Court Rent (1 Hour on Weekend)",
+                   "Range":"0.0-19.43",
+                   "Value":"12.44"
+                },
+                {
+                   "Item":"Cinema, International Release, 1 Seat",
+                   "Range":"10.88-17.88",
+                   "Value":"11.67"
+                },
+                {
+                   "Item":"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",
+                   "Range":"N/A",
+                   "Value":"1010.64"
+                },
+                {
+                   "Item":"International Primary School, Yearly for 1 Child",
+                   "Range":"N/A",
+                   "Value":"9717.69"
+                },
+                {
+                   "Item":"1 Pair of Jeans (Levis 501 Or Similar)",
+                   "Range":"19.43-77.74",
+                   "Value":"43.44"
+                },
+                {
+                   "Item":"1 Summer Dress in a Chain Store (Zara, H&M, ...)",
+                   "Range":"23.32-42.75",
+                   "Value":"37.71"
+                },
+                {
+                   "Item":"1 Pair of Nike Running Shoes (Mid-Range)",
+                   "Range":"62.19-93.29",
+                   "Value":"76.89"
+                },
+                {
+                   "Item":"1 Pair of Men Leather Business Shoes",
+                   "Range":"62.19-116.61",
+                   "Value":"93.55"
+                },
+                {
+                   "Item":"Apartment (1 bedroom) in City Centre",
+                   "Range":"N/A",
+                   "Value":"1171.37"
+                },
+                {
+                   "Item":"Apartment (1 bedroom) Outside of Centre",
+                   "Range":"N/A",
+                   "Value":"1071.08"
+                },
+                {
+                   "Item":"Apartment (3 bedrooms) in City Centre",
+                   "Range":"N/A",
+                   "Value":"1770.78"
+                },
+                {
+                   "Item":"Apartment (3 bedrooms) Outside of Centre",
+                   "Range":"N/A",
+                   "Value":"1722.27"
+                },
+                {
+                   "Item":"Apartment (Shared Room in a 3 Bedrooms Apartment) in City Centre",
+                   "Range":"518.28-829.24",
+                   "Value":"590.25"
+                },
+                {
+                   "Item":"Apartment (Shared Room in a 3 Bedrooms Apartment) Outside of Centre",
+                   "Range":"414.62-673.77",
+                   "Value":"574.09"
+                },
+                {
+                   "Item":"Price per Square Feet to Buy Apartment in City Centre",
+                   "Range":"310.97-567.5",
+                   "Value":"417.9"
+                },
+                {
+                   "Item":"Price per Square Feet to Buy Apartment Outside of Centre",
+                   "Range":"388.71-469.45",
+                   "Value":"441.53"
+                },
+                {
+                   "Item":"Average Monthly Net Salary (After Tax)",
+                   "Range":"N/A",
+                   "Value":"2680.39"
+                },
+                {
+                   "Item":"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",
+                   "Range":"2.22-4.02",
+                   "Value":"2.92"
+                }
+             ]
+          }
+       ],
+       "cost_of_living_index":"66.24",
+       "cost_of_living_plus_rent_index":"52.01",
+       "country":"Canada",
+       "groceries_index":"66.36",
+       "last_updated_timestamp":"2022-02-25 06:03:28.615989+00:00",
+       "local_purchasing_power_index":"85.47",
+       "name":"Hamilton",
+       "rent_index":"36.29",
+       "restaurant_price_index":"64.04",
+       "us_state":"N/A"
+    },
+    {
+       "cost_of_living_details":[
+          {
+             "currency":"USD",
+             "details":[
+                {
+                   "Item":"Estimated Monthly Costs Without Rent",
+                   "Range":"N/A",
+                   "Value":"968.81"
+                },
+                {
+                   "Item":"Meal, Inexpensive Restaurant",
+                   "Range":"11.16-27.91",
+                   "Value":"16.74"
+                },
+                {
+                   "Item":"Meal for 2 People, Mid-range Restaurant, Three-course",
+                   "Range":"55.82-111.63",
+                   "Value":"83.72"
+                },
+                {
+                   "Item":"McMeal at McDonalds (or Equivalent Combo Meal)",
+                   "Range":"8.93-11.16",
+                   "Value":"8.93"
+                },
+                {
+                   "Item":"Domestic Beer (1 pint draught)",
+                   "Range":"3.91-7.81",
+                   "Value":"6.14"
+                },
+                {
+                   "Item":"Imported Beer (12 oz small bottle)",
+                   "Range":"3.91-6.7",
+                   "Value":"4.47"
+                },
+                {
+                   "Item":"Cappuccino (regular)",
+                   "Range":"1.12-2.79",
+                   "Value":"1.79"
+                },
+                {
+                   "Item":"Coke/Pepsi (12 oz small bottle)",
+                   "Range":"2.23-3.91",
+                   "Value":"2.92"
+                },
+                {
+                   "Item":"Water (12 oz small bottle)",
+                   "Range":"1.12-2.23",
+                   "Value":"1.5"
+                },
+                {
+                   "Item":"Milk (regular), (1 gallon)",
+                   "Range":"3.81-6.34",
+                   "Value":"5.53"
+                },
+                {
+                   "Item":"Loaf of Fresh White Bread (1 lb)",
+                   "Range":"0.95-3.04",
+                   "Value":"1.81"
+                },
+                {
+                   "Item":"Rice (white), (1 lb)",
+                   "Range":"0.5-2.02",
+                   "Value":"1.13"
+                },
+                {
+                   "Item":"Eggs (regular) (12)",
+                   "Range":"1.79-5.58",
+                   "Value":"3.46"
+                },
+                {
+                   "Item":"Local Cheese (1 lb)",
+                   "Range":"4.55-14.18",
+                   "Value":"6.58"
+                },
+                {
+                   "Item":"Chicken Fillets (1 lb)",
+                   "Range":"2.02-6.07",
+                   "Value":"4.7"
+                },
+                {
+                   "Item":"Beef Round (1 lb) (or Equivalent Back Leg Red Meat)",
+                   "Range":"4.05-12.66",
+                   "Value":"8.9"
+                },
+                {
+                   "Item":"Apples (1 lb)",
+                   "Range":"0.5-1.47",
+                   "Value":"0.98"
+                },
+                {
+                   "Item":"Banana (1 lb)",
+                   "Range":"0.6-1.52",
+                   "Value":"0.92"
+                },
+                {
+                   "Item":"Oranges (1 lb)",
+                   "Range":"0.5-1.52",
+                   "Value":"0.96"
+                },
+                {
+                   "Item":"Tomato (1 lb)",
+                   "Range":"0.5-1.77",
+                   "Value":"1.18"
+                },
+                {
+                   "Item":"Potato (1 lb)",
+                   "Range":"0.4-1.02",
+                   "Value":"0.68"
+                },
+                {
+                   "Item":"Onion (1 lb)",
+                   "Range":"0.45-1.02",
+                   "Value":"0.58"
+                },
+                {
+                   "Item":"Lettuce (1 head)",
+                   "Range":"0.55-2.01",
+                   "Value":"1.07"
+                },
+                {
+                   "Item":"Water (1.5 liter bottle)",
+                   "Range":"0.28-1.12",
+                   "Value":"0.51"
+                },
+                {
+                   "Item":"Bottle of Wine (Mid-Range)",
+                   "Range":"4.47-11.16",
+                   "Value":"7.79"
+                },
+                {
+                   "Item":"Domestic Beer (0.5 liter bottle)",
+                   "Range":"1.12-3.13",
+                   "Value":"1.63"
+                },
+                {
+                   "Item":"Imported Beer (12 oz small bottle)",
+                   "Range":"1.12-3.35",
+                   "Value":"2.15"
+                },
+                {
+                   "Item":"Cigarettes 20 Pack (Marlboro)",
+                   "Range":"5.92-6.7",
+                   "Value":"6.36"
+                },
+                {
+                   "Item":"One-way Ticket (Local Transport)",
+                   "Range":"2.23-2.51",
+                   "Value":"2.23"
+                },
+                {
+                   "Item":"Monthly Pass (Regular Price)",
+                   "Range":"27.91-50.23",
+                   "Value":"43.54"
+                },
+                {
+                   "Item":"Taxi Start (Normal Tariff)",
+                   "Range":"3.91-8.93",
+                   "Value":"6.7"
+                },
+                {
+                   "Item":"Taxi 1 mile (Normal Tariff)",
+                   "Range":"1.91-4.99",
+                   "Value":"3.59"
+                },
+                {
+                   "Item":"Taxi 1hour Waiting (Normal Tariff)",
+                   "Range":"30.81-55.82",
+                   "Value":"35.36"
+                },
+                {
+                   "Item":"Gasoline (1 gallon)",
+                   "Range":"6.34-7.81",
+                   "Value":"7.28"
+                },
+                {
+                   "Item":"Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car)",
+                   "Range":"N/A",
+                   "Value":"27907.5"
+                },
+                {
+                   "Item":"Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car)",
+                   "Range":"N/A",
+                   "Value":"28735.43"
+                },
+                {
+                   "Item":"Basic (Electricity, Heating, Cooling, Water, Garbage) for 915 sq ft Apartment",
+                   "Range":"113.86-355.82",
+                   "Value":"210.92"
+                },
+                {
+                   "Item":"1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans)",
+                   "Range":"0.06-0.33",
+                   "Value":"0.18"
+                },
+                {
+                   "Item":"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",
+                   "Range":"27.91-44.65",
+                   "Value":"32.25"
+                },
+                {
+                   "Item":"Fitness Club, Monthly Fee for 1 Adult",
+                   "Range":"44.65-111.63",
+                   "Value":"72.46"
+                },
+                {
+                   "Item":"Tennis Court Rent (1 Hour on Weekend)",
+                   "Range":"20.09-33.49",
+                   "Value":"27.0"
+                },
+                {
+                   "Item":"Cinema, International Release, 1 Seat",
+                   "Range":"8.93-13.4",
+                   "Value":"11.16"
+                },
+                {
+                   "Item":"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",
+                   "Range":"558.15-948.86",
+                   "Value":"762.61"
+                },
+                {
+                   "Item":"International Primary School, Yearly for 1 Child",
+                   "Range":"N/A",
+                   "Value":"20193.09"
+                },
+                {
+                   "Item":"1 Pair of Jeans (Levis 501 Or Similar)",
+                   "Range":"44.65-111.63",
+                   "Value":"82.89"
+                },
+                {
+                   "Item":"1 Summer Dress in a Chain Store (Zara, H&M, ...)",
+                   "Range":"22.33-55.82",
+                   "Value":"37.83"
+                },
+                {
+                   "Item":"1 Pair of Nike Running Shoes (Mid-Range)",
+                   "Range":"61.4-132.84",
+                   "Value":"94.49"
+                },
+                {
+                   "Item":"1 Pair of Men Leather Business Shoes",
+                   "Range":"78.14-223.26",
+                   "Value":"138.71"
+                },
+                {
+                   "Item":"Apartment (1 bedroom) in City Centre",
+                   "Range":"N/A",
+                   "Value":"1322.58"
+                },
+                {
+                   "Item":"Apartment (1 bedroom) Outside of Centre",
+                   "Range":"N/A",
+                   "Value":"922.29"
+                },
+                {
+                   "Item":"Apartment (3 bedrooms) in City Centre",
+                   "Range":"N/A",
+                   "Value":"2824.57"
+                },
+                {
+                   "Item":"Apartment (3 bedrooms) Outside of Centre",
+                   "Range":"N/A",
+                   "Value":"1786.08"
+                },
+                {
+                   "Item":"Apartment (Shared Room in a 3 Bedrooms Apartment) in City Centre",
+                   "Range":"744.2-1302.35",
+                   "Value":"941.52"
+                },
+                {
+                   "Item":"Apartment (Shared Room in a 3 Bedrooms Apartment) Outside of Centre",
+                   "Range":"446.52-781.41",
+                   "Value":"595.36"
+                },
+                {
+                   "Item":"Price per Square Feet to Buy Apartment in City Centre",
+                   "Range":"622.24-1037.07",
+                   "Value":"812.8"
+                },
+                {
+                   "Item":"Price per Square Feet to Buy Apartment Outside of Centre",
+                   "Range":"311.12-518.53",
+                   "Value":"376.08"
+                },
+                {
+                   "Item":"Average Monthly Net Salary (After Tax)",
+                   "Range":"N/A",
+                   "Value":"1932.34"
+                },
+                {
+                   "Item":"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",
+                   "Range":"1.12-2.23",
+                   "Value":"1.65"
+                }
+             ]
+          }
+       ],
+       "cost_of_living_index":"74.46",
+       "cost_of_living_plus_rent_index":"59.61",
+       "country":"Italy",
+       "groceries_index":"62.21",
+       "last_updated_timestamp":"2022-02-25 06:02:18.356358+00:00",
+       "local_purchasing_power_index":"53.54",
+       "name":"Milan",
+       "rent_index":"43.19",
+       "restaurant_price_index":"79.33",
+       "us_state":"N/A"
+    },
+    {
+       "cost_of_living_details":[
+          {
+             "currency":"USD",
+             "details":[
+                {
+                   "Item":"Estimated Monthly Costs Without Rent",
+                   "Range":"N/A",
+                   "Value":"342.29"
+                },
+                {
+                   "Item":"Meal, Inexpensive Restaurant",
+                   "Range":"1.75-5.01",
+                   "Value":"2.5"
+                },
+                {
+                   "Item":"Meal for 2 People, Mid-range Restaurant, Three-course",
+                   "Range":"12.52-44.5",
+                   "Value":"16.28"
+                },
+                {
+                   "Item":"McMeal at McDonalds (or Equivalent Combo Meal)",
+                   "Range":"3.76-5.01",
+                   "Value":"4.25"
+                },
+                {
+                   "Item":"Domestic Beer (1 pint draught)",
+                   "Range":"0.75-2.5",
+                   "Value":"1.25"
+                },
+                {
+                   "Item":"Imported Beer (12 oz small bottle)",
+                   "Range":"1.0-2.5",
+                   "Value":"2.0"
+                },
+                {
+                   "Item":"Cappuccino (regular)",
+                   "Range":"0.75-1.25",
+                   "Value":"0.97"
+                },
+                {
+                   "Item":"Coke/Pepsi (12 oz small bottle)",
+                   "Range":"0.5-1.0",
+                   "Value":"0.69"
+                },
+                {
+                   "Item":"Water (12 oz small bottle)",
+                   "Range":"0.5-0.99",
+                   "Value":"0.49"
+                },
+                {
+                   "Item":"Milk (regular), (1 gallon)",
+                   "Range":"1.9-3.74",
+                   "Value":"2.51"
+                },
+                {
+                   "Item":"Loaf of Fresh White Bread (1 lb)",
+                   "Range":"0.22-0.9",
+                   "Value":"0.58"
+                },
+                {
+                   "Item":"Rice (white), (1 lb)",
+                   "Range":"0.22-0.46",
+                   "Value":"0.36"
+                },
+                {
+                   "Item":"Eggs (regular) (12)",
+                   "Range":"0.83-1.51",
+                   "Value":"1.22"
+                },
+                {
+                   "Item":"Local Cheese (1 lb)",
+                   "Range":"0.57-2.0",
+                   "Value":"1.12"
+                },
+                {
+                   "Item":"Chicken Fillets (1 lb)",
+                   "Range":"0.57-2.0",
+                   "Value":"1.44"
+                },
+                {
+                   "Item":"Beef Round (1 lb) (or Equivalent Back Leg Red Meat)",
+                   "Range":"0.57-3.26",
+                   "Value":"2.05"
+                },
+                {
+                   "Item":"Apples (1 lb)",
+                   "Range":"0.31-0.57",
+                   "Value":"0.54"
+                },
+                {
+                   "Item":"Banana (1 lb)",
+                   "Range":"0.11-0.57",
+                   "Value":"0.23"
+                },
+                {
+                   "Item":"Oranges (1 lb)",
+                   "Range":"0.11-0.57",
+                   "Value":"0.21"
+                },
+                {
+                   "Item":"Tomato (1 lb)",
+                   "Range":"0.11-0.46",
+                   "Value":"0.35"
+                },
+                {
+                   "Item":"Potato (1 lb)",
+                   "Range":"0.11-0.22",
+                   "Value":"0.18"
+                },
+                {
+                   "Item":"Onion (1 lb)",
+                   "Range":"0.11-0.46",
+                   "Value":"0.27"
+                },
+                {
+                   "Item":"Lettuce (1 head)",
+                   "Range":"0.25-0.5",
+                   "Value":"0.5"
+                },
+                {
+                   "Item":"Water (1.5 liter bottle)",
+                   "Range":"0.38-0.75",
+                   "Value":"0.67"
+                },
+                {
+                   "Item":"Bottle of Wine (Mid-Range)",
+                   "Range":"3.76-7.51",
+                   "Value":"6.26"
+                },
+                {
+                   "Item":"Domestic Beer (0.5 liter bottle)",
+                   "Range":"0.63-0.95",
+                   "Value":"0.75"
+                },
+                {
+                   "Item":"Imported Beer (12 oz small bottle)",
+                   "Range":"0.75-3.0",
+                   "Value":"1.16"
+                },
+                {
+                   "Item":"Cigarettes 20 Pack (Marlboro)",
+                   "Range":"1.37-2.28",
+                   "Value":"2.0"
+                },
+                {
+                   "Item":"One-way Ticket (Local Transport)",
+                   "Range":"0.63-0.66",
+                   "Value":"0.65"
+                },
+                {
+                   "Item":"Monthly Pass (Regular Price)",
+                   "Range":"30.05-40.08",
+                   "Value":"37.56"
+                },
+                {
+                   "Item":"Taxi Start (Normal Tariff)",
+                   "Range":"1.31-1.51",
+                   "Value":"1.41"
+                },
+                {
+                   "Item":"Taxi 1 mile (Normal Tariff)",
+                   "Range":"2.22-2.5",
+                   "Value":"2.33"
+                },
+                {
+                   "Item":"Taxi 1hour Waiting (Normal Tariff)",
+                   "Range":"2.5-6.26",
+                   "Value":"3.76"
+                },
+                {
+                   "Item":"Gasoline (1 gallon)",
+                   "Range":"1.95-2.27",
+                   "Value":"2.25"
+                },
+                {
+                   "Item":"Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car)",
+                   "Range":"N/A",
+                   "Value":"20910.68"
+                },
+                {
+                   "Item":"Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car)",
+                   "Range":"N/A",
+                   "Value":"18500.44"
+                },
+                {
+                   "Item":"Basic (Electricity, Heating, Cooling, Water, Garbage) for 915 sq ft Apartment",
+                   "Range":"35.06-106.44",
+                   "Value":"58.48"
+                },
+                {
+                   "Item":"1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans)",
+                   "Range":"0.02-0.04",
+                   "Value":"0.03"
+                },
+                {
+                   "Item":"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",
+                   "Range":"15.03-26.3",
+                   "Value":"21.29"
+                },
+                {
+                   "Item":"Fitness Club, Monthly Fee for 1 Adult",
+                   "Range":"15.03-23.79",
+                   "Value":"20.35"
+                },
+                {
+                   "Item":"Tennis Court Rent (1 Hour on Weekend)",
+                   "Range":"5.01-5.01",
+                   "Value":"5.01"
+                },
+                {
+                   "Item":"Cinema, International Release, 1 Seat",
+                   "Range":"2.04-3.76",
+                   "Value":"2.76"
+                },
+                {
+                   "Item":"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",
+                   "Range":"75.14-137.75",
+                   "Value":"108.33"
+                },
+                {
+                   "Item":"International Primary School, Yearly for 1 Child",
+                   "Range":"N/A",
+                   "Value":"2153.93"
+                },
+                {
+                   "Item":"1 Pair of Jeans (Levis 501 Or Similar)",
+                   "Range":"20.04-62.61",
+                   "Value":"47.9"
+                },
+                {
+                   "Item":"1 Summer Dress in a Chain Store (Zara, H&M, ...)",
+                   "Range":"20.04-30.05",
+                   "Value":"28.62"
+                },
+                {
+                   "Item":"1 Pair of Nike Running Shoes (Mid-Range)",
+                   "Range":"45.09-75.14",
+                   "Value":"58.55"
+                },
+                {
+                   "Item":"1 Pair of Men Leather Business Shoes",
+                   "Range":"17.54-75.14",
+                   "Value":"39.14"
+                },
+                {
+                   "Item":"Apartment (1 bedroom) in City Centre",
+                   "Range":"150.28-300.55",
+                   "Value":"200.36"
+                },
+                {
+                   "Item":"Apartment (1 bedroom) Outside of Centre",
+                   "Range":"112.7-162.8",
+                   "Value":"138.82"
+                },
+                {
+                   "Item":"Apartment (3 bedrooms) in City Centre",
+                   "Range":"300.55-375.69",
+                   "Value":"332.75"
+                },
+                {
+                   "Item":"Apartment (3 bedrooms) Outside of Centre",
+                   "Range":"187.84-375.69",
+                   "Value":"241.06"
+                },
+                {
+                   "Item":"Apartment (Shared Room in a 3 Bedrooms Apartment) in City Centre",
+                   "Range":"100.19-125.23",
+                   "Value":"110.92"
+                },
+                {
+                   "Item":"Apartment (Shared Room in a 3 Bedrooms Apartment) Outside of Centre",
+                   "Range":"62.61-125.23",
+                   "Value":"80.35"
+                },
+                {
+                   "Item":"Price per Square Feet to Buy Apartment in City Centre",
+                   "Range":"69.8-93.08",
+                   "Value":"81.43"
+                },
+                {
+                   "Item":"Price per Square Feet to Buy Apartment Outside of Centre",
+                   "Range":"69.8-116.34",
+                   "Value":"89.58"
+                },
+                {
+                   "Item":"Average Monthly Net Salary (After Tax)",
+                   "Range":"N/A",
+                   "Value":"281.91"
+                },
+                {
+                   "Item":"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",
+                   "Range":"6.7-13.95",
+                   "Value":"11.35"
+                }
+             ]
+          }
+       ],
+       "cost_of_living_index":"24.70",
+       "cost_of_living_plus_rent_index":"15.71",
+       "country":"Colombia",
+       "groceries_index":"19.63",
+       "last_updated_timestamp":"2022-02-25 06:06:06.930409+00:00",
+       "local_purchasing_power_index":"29.77",
+       "name":"Bucaramanga",
+       "rent_index":"5.78",
+       "restaurant_price_index":"17.74",
+       "us_state":"N/A"
+    },
+    {
+       "cost_of_living_details":[
+          {
+             "currency":"USD",
+             "details":[
+                {
+                   "Item":"Estimated Monthly Costs Without Rent",
+                   "Range":"N/A",
+                   "Value":"763.4"
+                },
+                {
+                   "Item":"Meal, Inexpensive Restaurant",
+                   "Range":"11.16-16.74",
+                   "Value":"13.4"
+                },
+                {
+                   "Item":"Meal for 2 People, Mid-range Restaurant, Three-course",
+                   "Range":"44.65-100.47",
+                   "Value":"55.82"
+                },
+                {
+                   "Item":"McMeal at McDonalds (or Equivalent Combo Meal)",
+                   "Range":"7.81-9.99",
+                   "Value":"8.76"
+                },
+                {
+                   "Item":"Domestic Beer (1 pint draught)",
+                   "Range":"2.23-4.47",
+                   "Value":"3.35"
+                },
+                {
+                   "Item":"Imported Beer (12 oz small bottle)",
+                   "Range":"3.35-5.02",
+                   "Value":"3.91"
+                },
+                {
+                   "Item":"Cappuccino (regular)",
+                   "Range":"1.34-3.35",
+                   "Value":"2.28"
+                },
+                {
+                   "Item":"Coke/Pepsi (12 oz small bottle)",
+                   "Range":"1.12-3.01",
+                   "Value":"2.15"
+                },
+                {
+                   "Item":"Water (12 oz small bottle)",
+                   "Range":"1.12-2.79",
+                   "Value":"1.67"
+                },
+                {
+                   "Item":"Milk (regular), (1 gallon)",
+                   "Range":"2.53-4.23",
+                   "Value":"3.45"
+                },
+                {
+                   "Item":"Loaf of Fresh White Bread (1 lb)",
+                   "Range":"0.5-2.02",
+                   "Value":"1.04"
+                },
+                {
+                   "Item":"Rice (white), (1 lb)",
+                   "Range":"0.38-1.0",
+                   "Value":"0.59"
+                },
+                {
+                   "Item":"Eggs (regular) (12)",
+                   "Range":"1.4-3.35",
+                   "Value":"2.33"
+                },
+                {
+                   "Item":"Local Cheese (1 lb)",
+                   "Range":"2.53-9.62",
+                   "Value":"5.2"
+                },
+                {
+                   "Item":"Chicken Fillets (1 lb)",
+                   "Range":"1.62-4.43",
+                   "Value":"3.38"
+                },
+                {
+                   "Item":"Beef Round (1 lb) (or Equivalent Back Leg Red Meat)",
+                   "Range":"3.55-8.61",
+                   "Value":"5.88"
+                },
+                {
+                   "Item":"Apples (1 lb)",
+                   "Range":"0.6-1.52",
+                   "Value":"1.08"
+                },
+                {
+                   "Item":"Banana (1 lb)",
+                   "Range":"0.5-1.52",
+                   "Value":"0.83"
+                },
+                {
+                   "Item":"Oranges (1 lb)",
+                   "Range":"0.4-1.52",
+                   "Value":"0.86"
+                },
+                {
+                   "Item":"Tomato (1 lb)",
+                   "Range":"0.5-1.26",
+                   "Value":"0.94"
+                },
+                {
+                   "Item":"Potato (1 lb)",
+                   "Range":"0.26-1.02",
+                   "Value":"0.59"
+                },
+                {
+                   "Item":"Onion (1 lb)",
+                   "Range":"0.38-1.02",
+                   "Value":"0.61"
+                },
+                {
+                   "Item":"Lettuce (1 head)",
+                   "Range":"0.78-1.67",
+                   "Value":"1.11"
+                },
+                {
+                   "Item":"Water (1.5 liter bottle)",
+                   "Range":"0.33-1.67",
+                   "Value":"0.75"
+                },
+                {
+                   "Item":"Bottle of Wine (Mid-Range)",
+                   "Range":"3.35-11.16",
+                   "Value":"5.58"
+                },
+                {
+                   "Item":"Domestic Beer (0.5 liter bottle)",
+                   "Range":"0.68-1.88",
+                   "Value":"1.13"
+                },
+                {
+                   "Item":"Imported Beer (12 oz small bottle)",
+                   "Range":"1.12-3.35",
+                   "Value":"1.79"
+                },
+                {
+                   "Item":"Cigarettes 20 Pack (Marlboro)",
+                   "Range":"5.58-6.7",
+                   "Value":"5.8"
+                },
+                {
+                   "Item":"One-way Ticket (Local Transport)",
+                   "Range":"1.36-2.23",
+                   "Value":"1.67"
+                },
+                {
+                   "Item":"Monthly Pass (Regular Price)",
+                   "Range":"55.82-72.56",
+                   "Value":"60.95"
+                },
+                {
+                   "Item":"Taxi Start (Normal Tariff)",
+                   "Range":"2.68-4.8",
+                   "Value":"3.24"
+                },
+                {
+                   "Item":"Taxi 1 mile (Normal Tariff)",
+                   "Range":"1.8-3.59",
+                   "Value":"1.98"
+                },
+                {
+                   "Item":"Taxi 1hour Waiting (Normal Tariff)",
+                   "Range":"20.76-33.49",
+                   "Value":"24.56"
+                },
+                {
+                   "Item":"Gasoline (1 gallon)",
+                   "Range":"5.75-6.76",
+                   "Value":"6.24"
+                },
+                {
+                   "Item":"Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car)",
+                   "Range":"N/A",
+                   "Value":"24558.6"
+                },
+                {
+                   "Item":"Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car)",
+                   "Range":"N/A",
+                   "Value":"25810.95"
+                },
+                {
+                   "Item":"Basic (Electricity, Heating, Cooling, Water, Garbage) for 915 sq ft Apartment",
+                   "Range":"89.3-274.12",
+                   "Value":"142.85"
+                },
+                {
+                   "Item":"1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans)",
+                   "Range":"0.08-0.33",
+                   "Value":"0.22"
+                },
+                {
+                   "Item":"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",
+                   "Range":"33.49-55.82",
+                   "Value":"42.05"
+                },
+                {
+                   "Item":"Fitness Club, Monthly Fee for 1 Adult",
+                   "Range":"29.02-55.82",
+                   "Value":"43.57"
+                },
+                {
+                   "Item":"Tennis Court Rent (1 Hour on Weekend)",
+                   "Range":"7.81-16.74",
+                   "Value":"12.5"
+                },
+                {
+                   "Item":"Cinema, International Release, 1 Seat",
+                   "Range":"7.81-12.28",
+                   "Value":"10.05"
+                },
+                {
+                   "Item":"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",
+                   "Range":"446.52-669.78",
+                   "Value":"542.39"
+                },
+                {
+                   "Item":"International Primary School, Yearly for 1 Child",
+                   "Range":"N/A",
+                   "Value":"9419.85"
+                },
+                {
+                   "Item":"1 Pair of Jeans (Levis 501 Or Similar)",
+                   "Range":"44.65-111.63",
+                   "Value":"71.62"
+                },
+                {
+                   "Item":"1 Summer Dress in a Chain Store (Zara, H&M, ...)",
+                   "Range":"22.33-54.7",
+                   "Value":"33.46"
+                },
+                {
+                   "Item":"1 Pair of Nike Running Shoes (Mid-Range)",
+                   "Range":"50.23-111.63",
+                   "Value":"76.59"
+                },
+                {
+                   "Item":"1 Pair of Men Leather Business Shoes",
+                   "Range":"55.82-145.12",
+                   "Value":"102.38"
+                },
+                {
+                   "Item":"Apartment (1 bedroom) in City Centre",
+                   "Range":"N/A",
+                   "Value":"1048.04"
+                },
+                {
+                   "Item":"Apartment (1 bedroom) Outside of Centre",
+                   "Range":"669.78-1004.67",
+                   "Value":"789.11"
+                },
+                {
+                   "Item":"Apartment (3 bedrooms) in City Centre",
+                   "Range":"N/A",
+                   "Value":"1782.33"
+                },
+                {
+                   "Item":"Apartment (3 bedrooms) Outside of Centre",
+                   "Range":"N/A",
+                   "Value":"1244.4"
+                },
+                {
+                   "Item":"Apartment (Shared Room in a 3 Bedrooms Apartment) in City Centre",
+                   "Range":"465.13-930.25",
+                   "Value":"594.11"
+                },
+                {
+                   "Item":"Apartment (Shared Room in a 3 Bedrooms Apartment) Outside of Centre",
+                   "Range":"334.89-558.15",
+                   "Value":"414.79"
+                },
+                {
+                   "Item":"Price per Square Feet to Buy Apartment in City Centre",
+                   "Range":"404.46-622.24",
+                   "Value":"510.61"
+                },
+                {
+                   "Item":"Price per Square Feet to Buy Apartment Outside of Centre",
+                   "Range":"259.27-414.83",
+                   "Value":"318.58"
+                },
+                {
+                   "Item":"Average Monthly Net Salary (After Tax)",
+                   "Range":"N/A",
+                   "Value":"2009.08"
+                },
+                {
+                   "Item":"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",
+                   "Range":"1.12-3.35",
+                   "Value":"2.15"
+                }
+             ]
+          }
+       ],
+       "cost_of_living_index":"58.87",
+       "cost_of_living_plus_rent_index":"45.63",
+       "country":"Spain",
+       "groceries_index":"48.64",
+       "last_updated_timestamp":"2022-02-25 06:03:57.576759+00:00",
+       "local_purchasing_power_index":"73.53",
+       "name":"Madrid",
+       "rent_index":"30.98",
+       "restaurant_price_index":"61.83",
+       "us_state":"N/A"
+    },
+    {
+       "cost_of_living_details":[
+          {
+             "currency":"USD",
+             "details":[
+                {
+                   "Item":"Estimated Monthly Costs Without Rent",
+                   "Range":"N/A",
+                   "Value":"369.77"
+                },
+                {
+                   "Item":"Meal, Inexpensive Restaurant",
+                   "Range":"1.98-7.91",
+                   "Value":"3.96"
+                },
+                {
+                   "Item":"Meal for 2 People, Mid-range Restaurant, Three-course",
+                   "Range":"13.19-39.6",
+                   "Value":"19.8"
+                },
+                {
+                   "Item":"McMeal at McDonalds (or Equivalent Combo Meal)",
+                   "Range":"3.3-5.94",
+                   "Value":"3.96"
+                },
+                {
+                   "Item":"Domestic Beer (1 pint draught)",
+                   "Range":"1.06-3.96",
+                   "Value":"1.98"
+                },
+                {
+                   "Item":"Imported Beer (12 oz small bottle)",
+                   "Range":"2.63-6.6",
+                   "Value":"3.96"
+                },
+                {
+                   "Item":"Cappuccino (regular)",
+                   "Range":"0.79-3.45",
+                   "Value":"1.95"
+                },
+                {
+                   "Item":"Coke/Pepsi (12 oz small bottle)",
+                   "Range":"0.39-0.79",
+                   "Value":"0.52"
+                },
+                {
+                   "Item":"Water (12 oz small bottle)",
+                   "Range":"0.13-0.52",
+                   "Value":"0.22"
+                },
+                {
+                   "Item":"Milk (regular), (1 gallon)",
+                   "Range":"2.34-3.0",
+                   "Value":"2.76"
+                },
+                {
+                   "Item":"Loaf of Fresh White Bread (1 lb)",
+                   "Range":"0.28-0.6",
+                   "Value":"0.45"
+                },
+                {
+                   "Item":"Rice (white), (1 lb)",
+                   "Range":"0.23-0.6",
+                   "Value":"0.4"
+                },
+                {
+                   "Item":"Eggs (regular) (12)",
+                   "Range":"0.79-1.59",
+                   "Value":"1.11"
+                },
+                {
+                   "Item":"Local Cheese (1 lb)",
+                   "Range":"1.32-5.98",
+                   "Value":"2.13"
+                },
+                {
+                   "Item":"Chicken Fillets (1 lb)",
+                   "Range":"0.89-2.76",
+                   "Value":"1.64"
+                },
+                {
+                   "Item":"Buffalo Round (1 lb) (or Equivalent Back Leg Red Meat)",
+                   "Range":"1.19-4.79",
+                   "Value":"2.72"
+                },
+                {
+                   "Item":"Apples (1 lb)",
+                   "Range":"0.48-1.19",
+                   "Value":"0.87"
+                },
+                {
+                   "Item":"Banana (1 lb)",
+                   "Range":"0.23-0.6",
+                   "Value":"0.32"
+                },
+                {
+                   "Item":"Oranges (1 lb)",
+                   "Range":"0.23-0.89",
+                   "Value":"0.45"
+                },
+                {
+                   "Item":"Tomato (1 lb)",
+                   "Range":"0.12-0.36",
+                   "Value":"0.26"
+                },
+                {
+                   "Item":"Potato (1 lb)",
+                   "Range":"0.09-0.23",
+                   "Value":"0.16"
+                },
+                {
+                   "Item":"Onion (1 lb)",
+                   "Range":"0.15-0.3",
+                   "Value":"0.22"
+                },
+                {
+                   "Item":"Lettuce (1 head)",
+                   "Range":"0.27-1.32",
+                   "Value":"0.59"
+                },
+                {
+                   "Item":"Water (1.5 liter bottle)",
+                   "Range":"0.27-0.39",
+                   "Value":"0.38"
+                },
+                {
+                   "Item":"Bottle of Wine (Mid-Range)",
+                   "Range":"6.6-19.8",
+                   "Value":"11.22"
+                },
+                {
+                   "Item":"Domestic Beer (0.5 liter bottle)",
+                   "Range":"1.18-2.63",
+                   "Value":"1.71"
+                },
+                {
+                   "Item":"Imported Beer (12 oz small bottle)",
+                   "Range":"1.59-5.28",
+                   "Value":"3.01"
+                },
+                {
+                   "Item":"Cigarettes 20 Pack (Marlboro)",
+                   "Range":"3.96-5.28",
+                   "Value":"4.49"
+                },
+                {
+                   "Item":"One-way Ticket (Local Transport)",
+                   "Range":"0.27-0.79",
+                   "Value":"0.42"
+                },
+                {
+                   "Item":"Monthly Pass (Regular Price)",
+                   "Range":"6.6-26.4",
+                   "Value":"13.19"
+                },
+                {
+                   "Item":"Taxi Start (Normal Tariff)",
+                   "Range":"0.39-1.32",
+                   "Value":"0.66"
+                },
+                {
+                   "Item":"Taxi 1 mile (Normal Tariff)",
+                   "Range":"0.21-0.75",
+                   "Value":"0.33"
+                },
+                {
+                   "Item":"Taxi 1hour Waiting (Normal Tariff)",
+                   "Range":"0.79-2.63",
+                   "Value":"1.32"
+                },
+                {
+                   "Item":"Gasoline (1 gallon)",
+                   "Range":"4.5-5.25",
+                   "Value":"4.97"
+                },
+                {
+                   "Item":"Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car)",
+                   "Range":"N/A",
+                   "Value":"13200.05"
+                },
+                {
+                   "Item":"Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car)",
+                   "Range":"N/A",
+                   "Value":"22853.97"
+                },
+                {
+                   "Item":"Basic (Electricity, Heating, Cooling, Water, Garbage) for 915 sq ft Apartment",
+                   "Range":"33.0-105.6",
+                   "Value":"57.51"
+                },
+                {
+                   "Item":"1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans)",
+                   "Range":"0.0-0.02",
+                   "Value":"0.01"
+                },
+                {
+                   "Item":"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",
+                   "Range":"6.6-13.19",
+                   "Value":"9.29"
+                },
+                {
+                   "Item":"Fitness Club, Monthly Fee for 1 Adult",
+                   "Range":"13.19-39.6",
+                   "Value":"23.15"
+                },
+                {
+                   "Item":"Tennis Court Rent (1 Hour on Weekend)",
+                   "Range":"3.96-13.19",
+                   "Value":"7.8"
+                },
+                {
+                   "Item":"Cinema, International Release, 1 Seat",
+                   "Range":"3.3-6.6",
+                   "Value":"4.62"
+                },
+                {
+                   "Item":"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",
+                   "Range":"39.6-132.0",
+                   "Value":"65.74"
+                },
+                {
+                   "Item":"International Primary School, Yearly for 1 Child",
+                   "Range":"N/A",
+                   "Value":"2530.53"
+                },
+                {
+                   "Item":"1 Pair of Jeans (Levis 501 Or Similar)",
+                   "Range":"15.84-52.8",
+                   "Value":"32.56"
+                },
+                {
+                   "Item":"1 Summer Dress in a Chain Store (Zara, H&M, ...)",
+                   "Range":"13.19-66.0",
+                   "Value":"35.16"
+                },
+                {
+                   "Item":"1 Pair of Nike Running Shoes (Mid-Range)",
+                   "Range":"29.03-79.2",
+                   "Value":"52.1"
+                },
+                {
+                   "Item":"1 Pair of Men Leather Business Shoes",
+                   "Range":"23.75-66.0",
+                   "Value":"43.56"
+                },
+                {
+                   "Item":"Apartment (1 bedroom) in City Centre",
+                   "Range":"132.0-396.0",
+                   "Value":"231.91"
+                },
+                {
+                   "Item":"Apartment (1 bedroom) Outside of Centre",
+                   "Range":"79.2-264.0",
+                   "Value":"133.06"
+                },
+                {
+                   "Item":"Apartment (3 bedrooms) in City Centre",
+                   "Range":"N/A",
+                   "Value":"568.17"
+                },
+                {
+                   "Item":"Apartment (3 bedrooms) Outside of Centre",
+                   "Range":"198.0-594.01",
+                   "Value":"314.2"
+                },
+                {
+                   "Item":"Apartment (Shared Room in a 3 Bedrooms Apartment) in City Centre",
+                   "Range":"110.0-396.0",
+                   "Value":"189.39"
+                },
+                {
+                   "Item":"Apartment (Shared Room in a 3 Bedrooms Apartment) Outside of Centre",
+                   "Range":"66.0-198.0",
+                   "Value":"104.73"
+                },
+                {
+                   "Item":"Price per Square Feet to Buy Apartment in City Centre",
+                   "Range":"147.16-490.52",
+                   "Value":"268.99"
+                },
+                {
+                   "Item":"Price per Square Feet to Buy Apartment Outside of Centre",
+                   "Range":"55.18-198.0",
+                   "Value":"108.25"
+                },
+                {
+                   "Item":"Average Monthly Net Salary (After Tax)",
+                   "Range":"N/A",
+                   "Value":"636.21"
+                },
+                {
+                   "Item":"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",
+                   "Range":"7.26-12.28",
+                   "Value":"9.03"
+                }
+             ]
+          }
+       ],
+       "cost_of_living_index":"27.75",
+       "cost_of_living_plus_rent_index":"18.30",
+       "country":"India",
+       "groceries_index":"27.03",
+       "last_updated_timestamp":"2022-02-25 06:05:55.657194+00:00",
+       "local_purchasing_power_index":"57.41",
+       "name":"Delhi",
+       "rent_index":"7.86",
+       "restaurant_price_index":"24.19",
+       "us_state":"N/A"
+    }
+ ]
+ 
