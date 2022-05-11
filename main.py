@@ -28,6 +28,7 @@ payload = {
 # hard coded data will replace when need to make real call
 f = open('exampleData.json')
 rawData = json.load(f)
+f.close()
 
 
 data = []
