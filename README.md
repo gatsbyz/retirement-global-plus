@@ -20,3 +20,11 @@ if this doesn’t work
 then try `git push` again
 
 `git branch -D {BRANCH_NAME}` delete branch
+
+# how to run
+1. Run `python3 main.py` in terminal to start calculator.
+2. Enter your retirement information.
+3. Your input will be saved in `user_data.csv`
+4. The CLI will show you the cities you can retire in.
+5. run `retirement_tool.ipynb` to visualize your retirement data. the most recent user input will be used.
+6. retire
