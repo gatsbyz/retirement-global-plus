@@ -1,4 +1,5 @@
 import questionary
+#import fire
 
 def get_retire_plan_user():
 
@@ -23,3 +24,6 @@ def run():
     years_to_retirement = int(retirement_age - age)
     
     return retirement_years, years_to_retirement, savings, portfolio_type, total_stocks_bonds
+
+#if __name__ == "__main__":
+#    fire.Fire(run)
