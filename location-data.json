@@ -1,0 +1,46 @@
+{
+    "New York": {
+        "lat-long": [40.776676, -73.971321],
+        "color": "red",
+        "name": "New York, USA"
+    },
+    "Hamilton": {
+        "lat-long": [32.299507, -64.790337 ],
+        "color": "blue"
+    },
+    "Hong Kong": {
+        "lat-long": [22.302711, 114.177216],
+        "color": "orange",
+        "name": "Hong Kong, Hong Kong"
+    },
+    "Los Angeles": {
+        "lat-long": [34.052235, -118.243683],
+        "name": "Los Angeles, USA",
+        "color": "green"
+    },
+    "Paris": {
+        "lat-long": [48.864716, 2.349014],
+        "name": "Paris, France",
+        "color": "pink"
+    },
+    "Milan": {
+        "lat-long": [45.464664, 9.188540],
+        "name": "Milan, Italy",
+        "color": "purple"
+    },
+    "Bucaramanga": {
+        "lat-long": [7.119349, -73.122742],
+        "name": "Bucaramanga, Colombia",
+        "color": "cadetblue"
+    },
+    "Madrid": {
+        "lat-long": [40.416729, -3.703339],
+        "name": "Madrid, Spain",
+        "color": "beige"
+    },
+    "Delhi": {
+        "lat-long": [28.679079, 77.069710],
+        "name": "Delhi, India",
+        "color": "darkgreen"
+    }
+}
