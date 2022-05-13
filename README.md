@@ -26,6 +26,7 @@ then try `git push` again
 2. Enter your retirement information.
 3. Your input will be saved in `user_data.csv`
 4. The CLI will show you the cities you can retire in.
-5. run `retirement_tool.ipynb` to visualize your retirement data. the most recent user input will be used.
-5. run `map_retirement_cities.ipynb` to visualize your retirement cities. the most recent retirement cities will be used.
-6. retire
+5. Your retirement cities will be saved in `retirement-cities.csv`
+6. run `retirement_tool.ipynb` to visualize your retirement data. the most recent user input will be used.
+7. run `map_retirement_cities.ipynb` to visualize your retirement cities. the most recent retirement cities will be used.
+8. retire
