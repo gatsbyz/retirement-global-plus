@@ -101,14 +101,14 @@ def run_mc_output(df_portfolio, portfolio_type, years_to_retirement):
     elif portfolio_type == "Conservative":
         MonteCarlo_output = MCSimulation(
             portfolio_data = df_portfolio,
-            weights = [.44,.56],
+            weights = [.29,.71],
             num_simulation = 500,
             num_trading_days = 252*years_to_retirement)
         
     else:
         MonteCarlo_output = MCSimulation(
             portfolio_data = df_portfolio,
-            weights = [.29,.71],
+            weights = [.44,.56],
             num_simulation = 500,
             num_trading_days = 252*years_to_retirement)
     MonteCarlo_output.portfolio_data.dropna()
