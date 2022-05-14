@@ -145,4 +145,5 @@ BIG THANKS to all the great TAs and Professor Vinicio DeSola
 
 ## License
 
-N/A -- Free open.ware for a better world.
+bluesky Retirement Suite 2.0 - patent pending
+Free open.ware for a better world.
