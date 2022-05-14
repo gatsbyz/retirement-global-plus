@@ -88,7 +88,7 @@ def get_retire_plan_user():
     return age, retirement_age, savings, portfolio_type, total_stocks_bonds
 ```
 
-Snippet of MC code
+Snippet of Monte Carlo code
 
 ```python
 
@@ -107,7 +107,7 @@ output.calc_cumulative_return()
 
 ---
 
-# Useful git commands for Group Coordination
+# Useful GitHub commands for Group Coordination
 
 `git checkout -b [BRANCH_NAME]`: new branch
 
