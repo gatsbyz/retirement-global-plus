@@ -111,7 +111,7 @@ def run_mc_output(df_portfolio, portfolio_type, years_to_retirement):
             weights = [.44,.56],
             num_simulation = 250,
             num_trading_days = 252*years_to_retirement)
-    MonteCarlo_output.portfolio_data.dropna()
+    # MonteCarlo_output.portfolio_data.dropna()
     return MonteCarlo_output
 
 def summary_statistics(output):
