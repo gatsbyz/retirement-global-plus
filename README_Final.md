@@ -100,10 +100,10 @@ output.calc_cumulative_return()
 ```
 
 ### View of Questionary Stage
-![view_questioanary](enter html here)
+![view_questioanary](https://github.com/gatsbyz/retirement-global-plus/blob/orion/view_questionary.png)
 
 ### Forecast Simulation
-![sample_output_MC](enter html here)
+![sample_output_MC](https://github.com/gatsbyz/retirement-global-plus/blob/orion/sample_output_MC.png)
 
 ---
 
