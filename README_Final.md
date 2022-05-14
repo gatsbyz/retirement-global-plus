@@ -130,9 +130,13 @@ then try `git push` again
 ## Contributors
 
 Tracy Davis
+<br>
 Reginald Hyppolite
+<br>
 Jesse Lee
+<br>
 Wonkyung Lee
+<br>
 Tyler Shubert
 
 BIG THANKS to all the great TAs and Professor Vinicio DeSola
