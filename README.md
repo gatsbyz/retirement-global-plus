@@ -109,7 +109,7 @@ Python (version 3.0 or later)
 <br>
 `pip install folium`
 <br>
-conda install -c pyviz hvplot geoviews
+`conda install -c pyviz hvplot geoviews`
 
 ---
 
