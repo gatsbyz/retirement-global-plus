@@ -133,15 +133,17 @@ output.calc_cumulative_return()
 
 `git checkout [BRANCH_NAME]`: change branch
 
-`git branch` : where am i
+`git branch` : which branch am I in
 
-when i wanna push code
+when i wanna push code:
+<br>
 `git add -A` / `git add filename`
+<br>
 `git commit -m "COMMIT_MESSAGE"`
+<br>
 `git push`
 if this doesn’t work
-`git pull --rebase origin master`
-then try `git push` again
+`git pull --rebase origin master` then try `git push` again
 
 `git branch -D {BRANCH_NAME}` delete branch
 
