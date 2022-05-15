@@ -1,6 +1,6 @@
 # Retirement Global +
 
-## how to run
+## How To Run
 0. *open terminal at the root of project1*
 1. Run `python3 src/main.py` in terminal to start calculator.
 2. Enter your retirement information.
@@ -12,7 +12,7 @@
 8. map results saved in `Interactive_retirement_map.html`
 9. retire
 
-## sample input
+## Sample Input
 ? What is your current age 25
 
 ? By what age, would you prefer to retire? 65
@@ -24,7 +24,7 @@
 
 ? How much would you like to invest in stocks and bonds? 40000
 
-## sample output 
+## Sample Output 
 You can retire in
 ['Paris/France', 'Hamilton/Canada', 'Milan/Italy', 'Bucaramanga/Colombia', 'Madrid/Spain', 'Delhi/India']
 
