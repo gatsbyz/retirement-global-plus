@@ -1,4 +1,7 @@
 # Retirement Global +
+
+### Executive Summary
+
 The Retirement Global+ app seeks to flip the script for working citizens around the world. This tool enables users to assess their current assets, as well as their future needs in order to establish an optimized retirement plan to live in any city around the world. The Retirement Global+ app tells you exactly where you can comfortably retire at your preferred retirement age.
 
 
@@ -11,6 +14,23 @@ Part 2: Users will forecast the performance of their portfolio at the age they w
 Part 3: This total cash savings, in addition to asset appreciation will be exported to the Cost of Living Calculator to determine the list of viable cities where the user can retire.
 
 ### List of Cities within Scope of Analysis
+Hamilton (Bermuda)
+<br>
+Hong Kong
+<br>
+Los Angeles
+<br>
+Paris
+<br>
+Milan
+<br>
+Bucaramanga (Colombia)
+<br>
+Mardrid
+<br>
+Delhi
+<br>
+Hamilton (Canada)
 
 
 ---
