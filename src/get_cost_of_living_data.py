@@ -1,6 +1,7 @@
 import os
 from dotenv import load_dotenv
 import json
+import requests
 
 # Load the environment variables from the .env file by calling the load_dotenv function
 load_dotenv()
@@ -21,16 +22,16 @@ def cost_of_living_data():
     #########################
     ### real fetch to API ###
     #########################
-	# response = requests.request("POST", COST_OF_LIVING_URL, data=payload, headers=COST_OF_LIVING_HEADERS)
-	# rawData = response.json()['data']
+	response = requests.request("POST", COST_OF_LIVING_URL, data=payload, headers=COST_OF_LIVING_HEADERS)
+	rawData = response.json()['data']
 	# print(rawData)
 
     #########################
     ## test data from json ##
     #########################
-	f = open('static/test-data.json')
-	rawData = json.load(f)
-	f.close()
+	# f = open('static/test-data.json')
+	# rawData = json.load(f)
+	# f.close()
 
 	data = []
 	cities = []
