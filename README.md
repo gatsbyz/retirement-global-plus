@@ -191,24 +191,4 @@ BIG THANKS to all the great TAs and Professor Vinicio DeSola
 ---
 
 ## License
-
-bluesky Retirement Suite 2.0 - patent pending
-<br>
-Free open.ware for a better world.
-
-# useful git commands
-`git checkout -b [BRANCH_NAME]`: new branch
-
-`git checkout [BRANCH_NAME]`: change branch
-
-`git branch` : where am i
-
-when i wanna push code
-`git add -A` / `git add filename`
-`git commit -m "COMMIT_MESSAGE"`
-`git push`
-if this doesn’t work
-`git pull --rebase origin master`
-then try `git push` again
-
-`git branch -D {BRANCH_NAME}` delete branch
+MIT
