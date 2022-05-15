@@ -28,7 +28,7 @@ def cost_of_living_data():
     #########################
     ## test data from json ##
     #########################
-	f = open('test-data.json')
+	f = open('static/test-data.json')
 	rawData = json.load(f)
 	f.close()
 
@@ -40,7 +40,6 @@ def cost_of_living_data():
 
 		cityData = {}
 		cityData['city'] = item['name']
-		cityData['country'] = item['country']
 		cityData['country'] = item['country']
 		cityData['rent_index'] = float(item['rent_index'])
 		cityData['restaurant_price_index'] = float(item['restaurant_price_index'])

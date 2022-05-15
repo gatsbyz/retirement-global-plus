@@ -22,11 +22,24 @@ then try `git push` again
 `git branch -D {BRANCH_NAME}` delete branch
 
 # how to run
-1. Run `python3 main.py` in terminal to start calculator.
+0. *open terminal at the root of project1*
+1. Run `python3 src/main.py` in terminal to start calculator.
 2. Enter your retirement information.
-3. Your input will be saved in `user_data.csv`
+3. Your input will be saved in `cache/user_data.csv`
 4. The CLI will show you the cities you can retire in.
-5. Your retirement cities will be saved in `retirement-cities.csv`
-6. run `retirement_tool.ipynb` to visualize your retirement data. the most recent user input will be used.
-7. run `map_retirement_cities.ipynb` to visualize your retirement cities. the most recent retirement cities will be used.
-8. retire
+5. Your retirement cities will be saved in `cache/retirement-cities.csv`
+6. run `jupyter/retirement_tool.ipynb` to visualize your retirement data. the most recent user input will be used.
+7. run `jupyter/map_retirement_cities.ipynb` to visualize your retirement cities. the most recent retirement cities will be used.
+8. map results saved in `Interactive_retirement_map.html`
+9. retire
+
+# sample input
+? What is your current age 25
+? By what age, would you prefer to retire? 65
+? How much do you have in liquid cash savings (USD) 50000
+? Would you like your portfolio to be conservative[1], conservatively moderate[2], or moderate[3]? (Enter 1, 2, or 3) 3
+? How much would you like to invest in stocks and bonds? 40000
+
+# sample output 
+You can retire in
+['Paris/France', 'Hamilton/Canada', 'Milan/Italy', 'Bucaramanga/Colombia', 'Madrid/Spain', 'Delhi/India']

@@ -1,46 +1,42 @@
 {
-    "New York": {
+    "New York/USA": {
         "lat-long": [40.776676, -73.971321],
-        "color": "red",
-        "name": "New York, USA"
+        "color": "red"
     },
-    "Hamilton": {
+    "Hamilton/Bermuda": {
         "lat-long": [32.299507, -64.790337 ],
         "color": "blue"
     },
-    "Hong Kong": {
+    "Hong Kong/Hong Kong": {
         "lat-long": [22.302711, 114.177216],
-        "color": "orange",
-        "name": "Hong Kong, Hong Kong"
+        "color": "orange"
     },
-    "Los Angeles": {
+    "Los Angeles/USA": {
         "lat-long": [34.052235, -118.243683],
-        "name": "Los Angeles, USA",
         "color": "green"
     },
-    "Paris": {
+    "Paris/France": {
         "lat-long": [48.864716, 2.349014],
-        "name": "Paris, France",
         "color": "pink"
     },
-    "Milan": {
+    "Hamilton/Canada": {
+        "lat-long": [43.255203, -79.843826],
+        "color": "black"
+    },
+    "Milan/Italy": {
         "lat-long": [45.464664, 9.188540],
-        "name": "Milan, Italy",
         "color": "purple"
     },
-    "Bucaramanga": {
+    "Bucaramanga/Colombia": {
         "lat-long": [7.119349, -73.122742],
-        "name": "Bucaramanga, Colombia",
         "color": "cadetblue"
     },
-    "Madrid": {
+    "Madrid/Spain": {
         "lat-long": [40.416729, -3.703339],
-        "name": "Madrid, Spain",
         "color": "beige"
     },
-    "Delhi": {
+    "Delhi/India": {
         "lat-long": [28.679079, 77.069710],
-        "name": "Delhi, India",
         "color": "darkgreen"
     }
 }

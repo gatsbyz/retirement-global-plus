@@ -95,21 +95,21 @@ def run_mc_output(df_portfolio, portfolio_type, years_to_retirement):
         MonteCarlo_output = MCSimulation(
             portfolio_data = df_portfolio,
             weights = [.63,.37],
-            num_simulation = 250,
+            num_simulation = 500,
             num_trading_days = 252*years_to_retirement)
         
     elif portfolio_type == "Conservative":
         MonteCarlo_output = MCSimulation(
             portfolio_data = df_portfolio,
             weights = [.29,.71],
-            num_simulation = 250,
+            num_simulation = 500,
             num_trading_days = 252*years_to_retirement)
         
     else:
         MonteCarlo_output = MCSimulation(
             portfolio_data = df_portfolio,
             weights = [.44,.56],
-            num_simulation = 250,
+            num_simulation = 500,
             num_trading_days = 252*years_to_retirement)
     MonteCarlo_output.portfolio_data.dropna()
     return MonteCarlo_output
@@ -132,6 +132,6 @@ def get_retirement_cities(output, data, retirement_years, total_stocks_bonds, sa
             
     for item in data:
         if savings_at_retirement_val >= (item['estimated_monthly_costs_with_rent'] * (retirement_years * 12)):                
-            retirement_cities.append(item['city']) 
+            retirement_cities.append(item['city'] + '/' + item['country']) 
 
     return retirement_cities
