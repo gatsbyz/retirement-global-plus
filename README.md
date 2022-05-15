@@ -35,9 +35,14 @@ then try `git push` again
 
 # sample input
 ? What is your current age 25
+
 ? By what age, would you prefer to retire? 65
+
 ? How much do you have in liquid cash savings (USD) 50000
-? Would you like your portfolio to be conservative[1], conservatively moderate[2], or moderate[3]? (Enter 1, 2, or 3) 3
+
+? Would you like your portfolio to be conservative[1], conservatively moderate[2], or moderate[3]? 3
+
+
 ? How much would you like to invest in stocks and bonds? 40000
 
 # sample output 
