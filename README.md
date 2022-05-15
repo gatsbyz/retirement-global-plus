@@ -66,11 +66,11 @@ Hamilton (Canada)
 
 # Documents
 
-###Team Charter
+Team Charter
 <br>
 https://docs.google.com/document/d/1laAHUYkqxnocPBQqIeRB0HaU6wA8JShfNR4nlD4YaIU/edit?usp=sharing
 
-###Team Presentation (Slides)
+Team Presentation (Slides)
 <br>
 https://docs.google.com/presentation/d/1lwsZ5ntYcasI9LIwBdJl4LitR0IjZjs6vO7VatrjSHk/edit?usp=sharing
 
