@@ -143,10 +143,12 @@ output.calc_cumulative_return()
 ```
 
 ## View of Questionary Stage
-![view_questioanary](https://github.com/gatsbyz/retirement-global-plus/blob/orion/view_questionary.png)
+![view_questionary](https://user-images.githubusercontent.com/11021924/168452484-30cb0b8b-74b0-4a17-b8da-7570feaa83e8.png)
+
 
 ## Forecast Simulation
-![sample_output_MC](https://github.com/gatsbyz/retirement-global-plus/blob/orion/sample_output_MC.png)
+![sample_output_MC](https://user-images.githubusercontent.com/11021924/168452488-f5470627-b15b-4166-8dd5-ace160e4e9c0.png)
+
 
 ---
 
